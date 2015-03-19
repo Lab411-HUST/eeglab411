@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/color
+END
+blacktheme_key_keytext_color.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/color/blacktheme_key_keytext_color.xml
+END
+light_btn_key_text_color.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/color/light_btn_key_text_color.xml
+END
+blacktheme_key_hint_color.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/color/blacktheme_key_hint_color.xml
+END
+blacktheme_popup_keytext_color.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/color/blacktheme_popup_keytext_color.xml
+END

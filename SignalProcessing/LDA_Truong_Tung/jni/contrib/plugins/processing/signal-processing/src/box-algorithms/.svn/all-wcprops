@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms
+END
+ovpCSpectralAnalysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCSpectralAnalysis.h
+END
+ovpCBandFrequencyAverage.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCBandFrequencyAverage.h
+END
+ovpCDownsamplingBoxAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCDownsamplingBoxAlgorithm.h
+END
+ovpCInputChannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCInputChannel.cpp
+END
+ovpCSpatialFilterBoxAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCSpatialFilterBoxAlgorithm.h
+END
+ovpCSpectralAnalysisCospectra.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCSpectralAnalysisCospectra.h
+END
+ovpCWindowingFunctions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCWindowingFunctions.cpp
+END
+ovpCTemporalFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCTemporalFilter.h
+END
+ovpCOutputChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCOutputChannel.h
+END
+ovpCDetectingMinMaxBoxAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCDetectingMinMaxBoxAlgorithm.cpp
+END
+ovpCEpoching.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCEpoching.h
+END
+ovpCBoxAlgorithmUnivariateStatistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCBoxAlgorithmUnivariateStatistics.cpp
+END
+ovpCBoxAlgorithmSynchro.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCBoxAlgorithmSynchro.cpp
+END
+ovpCSteadyStateFrequencyComparison.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCSteadyStateFrequencyComparison.cpp
+END
+ovpCTemporalFilterBoxAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCTemporalFilterBoxAlgorithm.h
+END
+ovpCFastICA.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCFastICA.h
+END
+ovpCBandFrequencyAverage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCBandFrequencyAverage.cpp
+END
+ovpCSpectralAnalysis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCSpectralAnalysis.cpp
+END
+ovpCDownsamplingBoxAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCDownsamplingBoxAlgorithm.cpp
+END
+ovpCBoxAlgorithmCSPSpatialFilterTrainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCBoxAlgorithmCSPSpatialFilterTrainer.h
+END
+ovpCSpatialFilterBoxAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCSpatialFilterBoxAlgorithm.cpp
+END
+ovpCSpectralAnalysisCospectra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCSpectralAnalysisCospectra.cpp
+END
+ovpCOutputChannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCOutputChannel.cpp
+END
+ovpCTemporalFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCTemporalFilter.cpp
+END
+ovpCEpoching.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCEpoching.cpp
+END
+ovpCInputChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCInputChannel.h
+END
+ovpCWindowingFunctions.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCWindowingFunctions.h
+END
+ovpCDetectingMinMaxBoxAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCDetectingMinMaxBoxAlgorithm.h
+END
+ovpCBoxAlgorithmUnivariateStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCBoxAlgorithmUnivariateStatistics.h
+END
+ovpCTemporalFilterBoxAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCTemporalFilterBoxAlgorithm.cpp
+END
+ovpCBoxAlgorithmSynchro.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCBoxAlgorithmSynchro.h
+END
+ovpCFastICA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCFastICA.cpp
+END
+ovpCSteadyStateFrequencyComparison.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCSteadyStateFrequencyComparison.h
+END
+ovpCBoxAlgorithmCSPSpatialFilterTrainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/signal-processing/src/box-algorithms/ovpCBoxAlgorithmCSPSpatialFilterTrainer.cpp
+END

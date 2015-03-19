@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/signals
+END
+real-hand-movements.gdf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/signals/real-hand-movements.gdf
+END
+bci-motor-imagery.ov
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/signals/bci-motor-imagery.ov
+END

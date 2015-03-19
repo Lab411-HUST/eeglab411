@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/examples/src/box-algorithms
+END
+ovpCBoxAlgorithmMessageSender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/examples/src/box-algorithms/ovpCBoxAlgorithmMessageSender.cpp
+END
+ovpCHelloWorldWithInput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/examples/src/box-algorithms/ovpCHelloWorldWithInput.cpp
+END
+ovpCBoxAlgorithmMessageReceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/examples/src/box-algorithms/ovpCBoxAlgorithmMessageReceiver.cpp
+END
+ovpCBoxAlgorithmMessageSender.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/examples/src/box-algorithms/ovpCBoxAlgorithmMessageSender.h
+END
+ovpCHelloWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/examples/src/box-algorithms/ovpCHelloWorld.cpp
+END
+ovpCHelloWorldWithInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/examples/src/box-algorithms/ovpCHelloWorldWithInput.h
+END
+ovpCBoxAlgorithmMessageReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/examples/src/box-algorithms/ovpCBoxAlgorithmMessageReceiver.h
+END
+ovpCHelloWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/examples/src/box-algorithms/ovpCHelloWorld.h
+END

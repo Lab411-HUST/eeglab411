@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/ovpCSimpleDSP
+END
+ovpCEquationParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/ovpCSimpleDSP/ovpCEquationParser.h
+END
+ovpCAbstractTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/ovpCSimpleDSP/ovpCAbstractTree.h
+END
+ovpCEquationParserGrammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/ovpCSimpleDSP/ovpCEquationParserGrammar.h
+END
+ovpCEquationParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/ovpCSimpleDSP/ovpCEquationParser.cpp
+END
+ovpCAbstractTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/ovpCSimpleDSP/ovpCAbstractTree.cpp
+END

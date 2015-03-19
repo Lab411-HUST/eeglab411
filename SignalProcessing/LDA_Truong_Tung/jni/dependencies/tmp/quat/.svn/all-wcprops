@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat
+END
+quat.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/quat.c
+END
+quatlib.sln
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/quatlib.sln
+END
+Readme
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/Readme
+END
+quatlib.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/quatlib.dsw
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/Makefile
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/.cvsignore
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/CMakeLists.txt
+END
+quat.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/quat.h
+END
+vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/vector.c
+END
+quatlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/quatlib.vcproj
+END
+matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/matrix.c
+END
+quatlib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/quatlib.dsp
+END
+xyzquat.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/xyzquat.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/training
+END
+ovtkCSignalTrialSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/training/ovtkCSignalTrialSet.cpp
+END
+ovtkCSignalTrial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/training/ovtkCSignalTrial.cpp
+END
+ovtkCSignalTrialSet.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/training/ovtkCSignalTrialSet.hpp
+END
+ovtkCSignalTrial.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/training/ovtkCSignalTrial.hpp
+END
+ovtkISignalTrial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/training/ovtkISignalTrial.cpp
+END

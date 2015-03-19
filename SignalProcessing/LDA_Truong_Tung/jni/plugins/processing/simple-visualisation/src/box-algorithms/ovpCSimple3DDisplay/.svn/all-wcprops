@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSimple3DDisplay
+END
+ovpCSimple3DDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSimple3DDisplay/ovpCSimple3DDatabase.h
+END
+ovpCSimple3DView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSimple3DDisplay/ovpCSimple3DView.cpp
+END
+ovpCSimple3DView.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSimple3DDisplay/ovpCSimple3DView.h
+END
+ovpCSimple3DDatabase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSimple3DDisplay/ovpCSimple3DDatabase.cpp
+END

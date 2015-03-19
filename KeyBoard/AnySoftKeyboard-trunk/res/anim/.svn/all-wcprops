@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim
+END
+input_method_fancy_exit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/input_method_fancy_exit.xml
+END
+mini_keyboard_flip_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/mini_keyboard_flip_in.xml
+END
+input_method_fancy_enter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/input_method_fancy_enter.xml
+END
+tips_flip_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/tips_flip_in.xml
+END
+tips_flip_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/tips_flip_out.xml
+END
+mini_keyboard_fadein.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/mini_keyboard_fadein.xml
+END
+candidates_up_to_bottom_exit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/candidates_up_to_bottom_exit.xml
+END
+slide_in_right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/slide_in_right.xml
+END
+mini_keyboard_fadeout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/mini_keyboard_fadeout.xml
+END
+slide_out_right.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/slide_out_right.xml
+END
+candidates_bottom_to_up_enter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/candidates_bottom_to_up_enter.xml
+END
+key_preview_fadein.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/key_preview_fadein.xml
+END
+blink.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/blink.xml
+END
+slide_in_left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/slide_in_left.xml
+END
+key_preview_fadeout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/key_preview_fadeout.xml
+END
+slide_out_left.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/anim/slide_out_left.xml
+END

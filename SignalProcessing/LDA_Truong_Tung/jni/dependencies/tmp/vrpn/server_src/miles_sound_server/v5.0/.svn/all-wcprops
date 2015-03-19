@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0
+END
+sound_server.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0/sound_server.dsw
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0/readme.txt
+END
+vrpn_Sound_Miles.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0/vrpn_Sound_Miles.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0/resource.h
+END
+sound_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0/sound_server.cpp
+END
+sound_server.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0/sound_server.dsp
+END
+Console.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0/Console.cpp
+END
+SoundServerWin32.aps
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0/SoundServerWin32.aps
+END
+SoundServerWin32.rc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0/SoundServerWin32.rc
+END
+vrpn_Sound_Miles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0/vrpn_Sound_Miles.cpp
+END
+Console.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0/Console.hpp
+END
+soundserver.ico
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/miles_sound_server/v5.0/soundserver.ico
+END

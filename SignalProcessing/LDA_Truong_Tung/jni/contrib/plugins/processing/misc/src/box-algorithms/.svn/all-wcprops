@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/misc/src/box-algorithms
+END
+ovpCBoxAlgorithmSoundPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/misc/src/box-algorithms/ovpCBoxAlgorithmSoundPlayer.cpp
+END
+ovpCMouseControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/misc/src/box-algorithms/ovpCMouseControl.cpp
+END
+ovpCBoxAlgorithmSoundPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/misc/src/box-algorithms/ovpCBoxAlgorithmSoundPlayer.h
+END
+ovpCMouseControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/misc/src/box-algorithms/ovpCMouseControl.h
+END

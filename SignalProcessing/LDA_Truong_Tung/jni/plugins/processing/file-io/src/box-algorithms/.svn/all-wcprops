@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms
+END
+ovpCBoxAlgorithmElectrodeLocalizationFileReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/ovpCBoxAlgorithmElectrodeLocalizationFileReader.cpp
+END
+ovpCGDFFileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/ovpCGDFFileWriter.h
+END
+ovpCGDFFileReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/ovpCGDFFileReader.cpp
+END
+ovpCBoxAlgorithmSignalConcatenation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/ovpCBoxAlgorithmSignalConcatenation.cpp
+END
+ovpCBoxAlgorithmElectrodeLocalizationFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/ovpCBoxAlgorithmElectrodeLocalizationFileReader.h
+END
+ovpCBoxAlgorithmSignalConcatenation.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/ovpCBoxAlgorithmSignalConcatenation.h
+END
+ovpCBCICompetitionIIIbReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/ovpCBCICompetitionIIIbReader.cpp
+END
+ovpCGDFFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/ovpCGDFFileReader.h
+END
+ovpCGDFFileWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/ovpCGDFFileWriter.cpp
+END
+ovpCBCICompetitionIIIbReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/ovpCBCICompetitionIIIbReader.h
+END

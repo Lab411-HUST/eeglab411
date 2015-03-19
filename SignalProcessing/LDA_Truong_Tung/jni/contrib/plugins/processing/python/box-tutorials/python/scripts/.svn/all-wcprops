@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/python/box-tutorials/python/scripts
+END
+python-signal-average.py
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/python/box-tutorials/python/scripts/python-signal-average.py
+END
+python-multiprocessing.py
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/python/box-tutorials/python/scripts/python-multiprocessing.py
+END
+python-star-field.py
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/python/box-tutorials/python/scripts/python-star-field.py
+END
+python-sinus-oscillator.py
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/python/box-tutorials/python/scripts/python-sinus-oscillator.py
+END
+python-clock-stimulator.py
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/python/box-tutorials/python/scripts/python-clock-stimulator.py
+END
+python-moving-circle.py
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/python/box-tutorials/python/scripts/python-moving-circle.py
+END
+python-sinus-oscillator-without-numpy.py
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/python/box-tutorials/python/scripts/python-sinus-oscillator-without-numpy.py
+END

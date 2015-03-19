@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/test/shrinkageLDA
+END
+class1.csv
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/test/shrinkageLDA/class1.csv
+END
+class2.csv
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/test/shrinkageLDA/class2.csv
+END
+class1rot.csv
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/test/shrinkageLDA/class1rot.csv
+END
+class2rot.csv
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/test/shrinkageLDA/class2rot.csv
+END
+classifier-training-flipswitch.lua
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/test/shrinkageLDA/classifier-training-flipswitch.lua
+END
+shrinkage_lda.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/test/shrinkageLDA/shrinkage_lda.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/test/shrinkageLDA/README.txt
+END
+createData.R
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/test/shrinkageLDA/createData.R
+END
+shrinkage_lda_rot.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/test/shrinkageLDA/shrinkage_lda_rot.xml
+END

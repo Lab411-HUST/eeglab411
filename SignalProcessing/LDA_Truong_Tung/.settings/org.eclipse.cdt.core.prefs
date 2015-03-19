@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.300788733/NDKROOT/delimiter=\:
+environment/project/com.android.toolchain.gcc.300788733/NDKROOT/operation=replace
+environment/project/com.android.toolchain.gcc.300788733/NDKROOT/value=/home/truongnh/android-ndk-r9d
+environment/project/com.android.toolchain.gcc.300788733/OPENCV_PACKAGE_DIR/delimiter=\:
+environment/project/com.android.toolchain.gcc.300788733/OPENCV_PACKAGE_DIR/operation=replace
+environment/project/com.android.toolchain.gcc.300788733/OPENCV_PACKAGE_DIR/value=/home/truongnh/OpenCV-2.4.9-android-sdk
+environment/project/com.android.toolchain.gcc.300788733/append=true
+environment/project/com.android.toolchain.gcc.300788733/appendContributed=true

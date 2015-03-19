@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src
+END
+ovdCRenameDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCRenameDialog.cpp
+END
+ovdCInterfacedScenario.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCInterfacedScenario.cpp
+END
+ovdCSettingCollectionHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCSettingCollectionHelper.cpp
+END
+ovdCCommentEditorDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCCommentEditorDialog.cpp
+END
+ovdCBoxProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCBoxProxy.cpp
+END
+ovdCScenarioStateStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCScenarioStateStack.h
+END
+ovdCLinkProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCLinkProxy.cpp
+END
+ovdCInterfacedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCInterfacedObject.h
+END
+ovdCApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCApplication.cpp
+END
+ovdCCommentProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCCommentProxy.cpp
+END
+ovdCBoxConfigurationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCBoxConfigurationDialog.h
+END
+ovdCConnectorEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCConnectorEditor.h
+END
+ovdCPlayerVisualisation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCPlayerVisualisation.cpp
+END
+ovdCLogListenerDesigner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCLogListenerDesigner.cpp
+END
+ovdCSettingEditorDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCSettingEditorDialog.h
+END
+ovdCAboutPluginDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCAboutPluginDialog.h
+END
+ovd_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovd_defines.h
+END
+ovdCInputDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCInputDialog.cpp
+END
+ovdCDesignerVisualisation.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCDesignerVisualisation.h
+END
+ovdCAboutScenarioDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCAboutScenarioDialog.h
+END
+ovdTAttributeHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdTAttributeHandler.h
+END
+ovdCScenarioStateStack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCScenarioStateStack.cpp
+END
+ovdCInterfacedObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCInterfacedObject.cpp
+END
+ovdCRenameDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCRenameDialog.h
+END
+ovdCInterfacedScenario.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCInterfacedScenario.h
+END
+ovdCSettingCollectionHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCSettingCollectionHelper.h
+END
+ovdCCommentEditorDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCCommentEditorDialog.h
+END
+ovdCBoxProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCBoxProxy.h
+END
+ovdCBoxConfigurationDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCBoxConfigurationDialog.cpp
+END
+ovdCConnectorEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCConnectorEditor.cpp
+END
+ovdCSettingEditorDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCSettingEditorDialog.cpp
+END
+ovdCLinkProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCLinkProxy.h
+END
+ovdCApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCApplication.h
+END
+ovdCCommentProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCCommentProxy.h
+END
+ovdCAboutPluginDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCAboutPluginDialog.cpp
+END
+ovd_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovd_base.h
+END
+ovdCDesignerVisualisation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCDesignerVisualisation.cpp
+END
+ovdCPlayerVisualisation.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCPlayerVisualisation.h
+END
+ovdCLogListenerDesigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCLogListenerDesigner.h
+END
+ovdCAboutScenarioDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCAboutScenarioDialog.cpp
+END
+ovd_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovd_main.cpp
+END
+ovdTAttributeHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdTAttributeHandler.cpp
+END
+ovdCInputDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/designer/src/ovdCInputDialog.h
+END

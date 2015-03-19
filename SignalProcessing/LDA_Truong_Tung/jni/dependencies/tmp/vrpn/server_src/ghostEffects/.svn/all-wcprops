@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/ghostEffects
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/ghostEffects/ChangeLog
+END
+InstantBuzzEffect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/ghostEffects/InstantBuzzEffect.cpp
+END
+InstantBuzzEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/ghostEffects/InstantBuzzEffect.h
+END

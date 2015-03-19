@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/connectivity
+END
+ovpCConnectivityAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/connectivity/ovpCConnectivityAlgorithm.cpp
+END
+ovpCAlgorithmSingleTrialPhaseLockingValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/connectivity/ovpCAlgorithmSingleTrialPhaseLockingValue.cpp
+END
+ovpCConnectivityAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/connectivity/ovpCConnectivityAlgorithm.h
+END
+ovpCAlgorithmSingleTrialPhaseLockingValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/connectivity/ovpCAlgorithmSingleTrialPhaseLockingValue.h
+END

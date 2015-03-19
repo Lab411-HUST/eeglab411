@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders
+END
+ovpCStimulationEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCStimulationEncoder.h
+END
+ovpCSignalEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCSignalEncoder.cpp
+END
+ovpCFeatureVectorEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCFeatureVectorEncoder.cpp
+END
+ovpCEBMLBaseEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCEBMLBaseEncoder.h
+END
+ovpCChannelLocalisationEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCChannelLocalisationEncoder.h
+END
+ovpCSignalEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCSignalEncoder.h
+END
+ovpCFeatureVectorEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCFeatureVectorEncoder.h
+END
+ovpCExperimentInformationEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCExperimentInformationEncoder.cpp
+END
+ovpCAcquisitionEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCAcquisitionEncoder.cpp
+END
+ovpCStreamedMatrixEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCStreamedMatrixEncoder.cpp
+END
+ovpCExperimentInformationEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCExperimentInformationEncoder.h
+END
+ovpCAcquisitionEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCAcquisitionEncoder.h
+END
+ovpCStreamedMatrixEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCStreamedMatrixEncoder.h
+END
+ovpCSpectrumEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCSpectrumEncoder.cpp
+END
+ovpCMasterAcquisitionEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCMasterAcquisitionEncoder.cpp
+END
+ovpCSpectrumEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCSpectrumEncoder.h
+END
+ovpCStimulationEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCStimulationEncoder.cpp
+END
+ovpCMasterAcquisitionEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCMasterAcquisitionEncoder.h
+END
+ovpCEBMLBaseEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCEBMLBaseEncoder.cpp
+END
+ovpCChannelLocalisationEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stream-codecs/src/algorithms/encoders/ovpCChannelLocalisationEncoder.cpp
+END

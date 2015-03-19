@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic
+END
+ovpCBoxAlgorithmARCoefficients.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmARCoefficients.cpp
+END
+ovpCBoxAlgorithmReferenceChannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmReferenceChannel.cpp
+END
+ovpCBoxAlgorithmDifferentialIntegral.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmDifferentialIntegral.h
+END
+ovpCBoxAlgorithmHilbert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmHilbert.cpp
+END
+ovpCBoxAlgorithmARCoefficients.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmARCoefficients.h
+END
+ovpCBoxAlgorithmEpochAverage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmEpochAverage.cpp
+END
+ovpCBoxAlgorithmReferenceChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmReferenceChannel.h
+END
+ovpCBoxAlgorithmEpochAverage.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmEpochAverage.h
+END
+ovpCBoxAlgorithmHilbert.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmHilbert.h
+END
+ovpCBoxAlgorithmChannelRename.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmChannelRename.cpp
+END
+ovpCBoxAlgorithmIFFTbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmIFFTbox.cpp
+END
+ovpCBoxAlgorithmCrop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmCrop.cpp
+END
+ovpCBoxAlgorithmChannelRename.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmChannelRename.h
+END
+ovpCBoxAlgorithmIFFTbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmIFFTbox.h
+END
+ovpCBoxAlgorithmCrop.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmCrop.h
+END
+ovpCBoxAlgorithmChannelSelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmChannelSelector.cpp
+END
+ovpCBoxAlgorithmSignalDecimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmSignalDecimation.cpp
+END
+ovpCBoxAlgorithmEnvelope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmEnvelope.cpp
+END
+ovpCBoxAlgorithmChannelSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmChannelSelector.h
+END
+ovpCBoxAlgorithmSignalDecimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmSignalDecimation.h
+END
+ovpCBoxAlgorithmDifferentialIntegral.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmDifferentialIntegral.cpp
+END
+ovpCBoxAlgorithmEnvelope.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/basic/ovpCBoxAlgorithmEnvelope.h
+END

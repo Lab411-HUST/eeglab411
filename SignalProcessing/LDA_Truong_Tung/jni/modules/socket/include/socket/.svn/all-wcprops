@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/socket/include/socket
+END
+IConnectionServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/socket/include/socket/IConnectionServer.h
+END
+IConnectionClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/socket/include/socket/IConnectionClient.h
+END
+IConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/socket/include/socket/IConnection.h
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/socket/include/socket/defines.h
+END

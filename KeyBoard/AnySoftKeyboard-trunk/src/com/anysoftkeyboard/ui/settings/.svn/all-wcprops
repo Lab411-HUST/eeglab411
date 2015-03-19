@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings
+END
+MainSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings/MainSettings.java
+END
+UserWordsEditorAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings/UserWordsEditorAsyncTask.java
+END
+AddOnSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings/AddOnSelector.java
+END
+UserDictionaryEditorActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings/UserDictionaryEditorActivity.java
+END
+TopRowSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings/TopRowSelector.java
+END
+BottomRowSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings/BottomRowSelector.java
+END
+Dictionaries.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings/Dictionaries.java
+END
+QuickTextKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings/QuickTextKeys.java
+END
+ExtensionKeyboardSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings/ExtensionKeyboardSelector.java
+END
+Tweaks.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings/Tweaks.java
+END
+Keyboards.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings/Keyboards.java
+END
+KeyboardThemeSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/ui/settings/KeyboardThemeSelector.java
+END

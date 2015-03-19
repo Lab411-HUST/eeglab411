@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/jni
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/jni/Android.mk
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/jni/filter.c
+END
+hfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/jni/hfd.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/jni/filter.h
+END
+lab411_eeg_gazeservice_Calculate.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/jni/lab411_eeg_gazeservice_Calculate.h
+END
+hfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/jni/hfd.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/jni/main.c
+END

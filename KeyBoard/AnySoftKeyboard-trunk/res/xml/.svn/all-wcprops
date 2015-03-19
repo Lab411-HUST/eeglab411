@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml
+END
+ext_kbd_top_row_normal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_top_row_normal.xml
+END
+popup_16keys_jkl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup_16keys_jkl.xml
+END
+simple_datetime.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/simple_datetime.xml
+END
+popup_16keys_wxyz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup_16keys_wxyz.xml
+END
+popup_16keys_abc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup_16keys_abc.xml
+END
+quick_text_keys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/quick_text_keys.xml
+END
+physical.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/physical.xml
+END
+ext_kbd_bottom_row_regular.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_bottom_row_regular.xml
+END
+popup_domains.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup_domains.xml
+END
+method.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/method.xml
+END
+ext_kbd_bottom_row_iphone_with_mic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_bottom_row_iphone_with_mic.xml
+END
+ext_kbd_top_row_small.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_top_row_small.xml
+END
+ext_kbd_ext_keyboard_numbers_symbols.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_ext_keyboard_numbers_symbols.xml
+END
+ext_kbd_utility_utility.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_utility_utility.xml
+END
+symbols.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/symbols.xml
+END
+symbols_alt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/symbols_alt.xml
+END
+qwerty_mod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/qwerty_mod.xml
+END
+popup_16keys_ghi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup_16keys_ghi.xml
+END
+ext_kbd_bottom_row_regular_with_voice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_bottom_row_regular_with_voice.xml
+END
+popup_punctuation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup_punctuation.xml
+END
+ext_kbd_bottom_row_iphone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_bottom_row_iphone.xml
+END
+qwerty_compact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/qwerty_compact.xml
+END
+popup_16keys_tuv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup_16keys_tuv.xml
+END
+popup.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup.xml
+END
+keyboard_themes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/keyboard_themes.xml
+END
+popup_default_quick_text.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup_default_quick_text.xml
+END
+popup_smileys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup_smileys.xml
+END
+popup_16keys_pqrs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup_16keys_pqrs.xml
+END
+eng_16keys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/eng_16keys.xml
+END
+dictionaries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/dictionaries.xml
+END
+popup_16keys_mno.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup_16keys_mno.xml
+END
+ext_kbd_bottom_row_alt_with_mic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_bottom_row_alt_with_mic.xml
+END
+extension_keyboards.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/extension_keyboards.xml
+END
+simple_phone.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/simple_phone.xml
+END
+popup_16keys_def.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/popup_16keys_def.xml
+END
+keyboards.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/keyboards.xml
+END
+ext_kbd_top_row_numbers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_top_row_numbers.xml
+END
+ext_kbd_top_row_numbers_alt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_top_row_numbers_alt.xml
+END
+simple_alt_numbers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/simple_alt_numbers.xml
+END
+simple_numbers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/simple_numbers.xml
+END
+symbols_16keys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/symbols_16keys.xml
+END
+symbols_alt_16keys.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/symbols_alt_16keys.xml
+END
+ext_kbd_bottom_row_alt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_bottom_row_alt.xml
+END
+qwerty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/qwerty.xml
+END
+ext_kbd_top_row_nav.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/ext_kbd_top_row_nav.xml
+END
+qwerty_with_symbols.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/qwerty_with_symbols.xml
+END
+en_autotext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/res/xml/en_autotext.xml
+END

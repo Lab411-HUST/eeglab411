@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/views
+END
+AskGestureEventsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/views/AskGestureEventsListener.java
+END
+PointerTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/views/PointerTracker.java
+END
+AnyKeyboardBaseView.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/views/AnyKeyboardBaseView.java
+END
+MiniKeyboardKeyDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/views/MiniKeyboardKeyDetector.java
+END
+OnKeyboardActionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/views/OnKeyboardActionListener.java
+END
+KeyDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/views/KeyDetector.java
+END
+AnyKeyboardView.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/views/AnyKeyboardView.java
+END
+SwipeTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/views/SwipeTracker.java
+END
+CandidateView.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/views/CandidateView.java
+END
+KeyboardDimensFromTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/views/KeyboardDimensFromTheme.java
+END
+ProximityKeyDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/views/ProximityKeyDetector.java
+END

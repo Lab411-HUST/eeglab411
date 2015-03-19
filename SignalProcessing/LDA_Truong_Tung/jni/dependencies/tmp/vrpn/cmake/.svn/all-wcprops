@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake
+END
+ListCombinations.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/ListCombinations.cmake
+END
+UseBackportedModules.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/UseBackportedModules.cmake
+END
+FindGPM.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/FindGPM.cmake
+END
+FindMacHID.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/FindMacHID.cmake
+END
+PrefixListGlob.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/PrefixListGlob.cmake
+END
+GetForceIncludeDefinitions.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/GetForceIncludeDefinitions.cmake
+END
+ProgramFilesGlob.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/ProgramFilesGlob.cmake
+END
+Findquatlib.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/Findquatlib.cmake
+END
+CleanLibraryList.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/CleanLibraryList.cmake
+END
+CleanDirectoryList.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/CleanDirectoryList.cmake
+END
+FindWiiUse.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/FindWiiUse.cmake
+END
+FixWinInstallPrefix.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/FixWinInstallPrefix.cmake
+END
+FindDirectShow.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/FindDirectShow.cmake
+END
+CheckMacHIDAPI.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/CheckMacHIDAPI.cmake
+END
+FindOpenHaptics.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/FindOpenHaptics.cmake
+END
+CheckMacHIDAPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/cmake/CheckMacHIDAPI.cpp
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/test
+END
+ARFeatures.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/test/ARFeatures.xml
+END
+test_thresholdDataComparison.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/test/test_thresholdDataComparison.cpp
+END
+hilbert_HilbertTransform.ref.csv
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/test/hilbert_HilbertTransform.ref.csv
+END
+PhaseLockingValue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/test/PhaseLockingValue.xml
+END
+HilbertTransform.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/test/HilbertTransform.xml
+END
+ARFeatures.ref.csv
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/test/ARFeatures.ref.csv
+END
+envelope_HilbertTransform.ref.csv
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/test/envelope_HilbertTransform.ref.csv
+END
+DartTestfile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/test/DartTestfile.txt
+END
+phase_HilbertTransform.ref.csv
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/test/phase_HilbertTransform.ref.csv
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/test/CMakeLists.txt
+END

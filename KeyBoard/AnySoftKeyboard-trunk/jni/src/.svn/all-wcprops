@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/jni/src
+END
+dictionary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/jni/src/dictionary.cpp
+END
+dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/jni/src/dictionary.h
+END
+char_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/jni/src/char_utils.cpp
+END
+basechars.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/jni/src/basechars.h
+END
+char_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/jni/src/char_utils.h
+END

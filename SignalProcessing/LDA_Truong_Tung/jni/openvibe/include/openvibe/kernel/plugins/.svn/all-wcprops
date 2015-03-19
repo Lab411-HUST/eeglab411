@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/plugins
+END
+ovIPluginModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/plugins/ovIPluginModule.h
+END
+ovIPluginModuleContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/plugins/ovIPluginModuleContext.h
+END
+ovIPluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/plugins/ovIPluginManager.h
+END

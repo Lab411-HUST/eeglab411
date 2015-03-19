@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/brainproducts-brainampseries
+END
+ovasCConfigurationBrainProductsBrainampSeries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/brainproducts-brainampseries/ovasCConfigurationBrainProductsBrainampSeries.cpp
+END
+ovasCHeaderAdapterBrainProductsBrainampSeries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/brainproducts-brainampseries/ovasCHeaderAdapterBrainProductsBrainampSeries.cpp
+END
+ovasCDriverBrainProductsBrainampSeries.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/brainproducts-brainampseries/ovasCDriverBrainProductsBrainampSeries.cpp
+END
+ovas_defines_brainamp_series.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/brainproducts-brainampseries/ovas_defines_brainamp_series.h
+END
+ovasCConfigurationBrainProductsBrainampSeries.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/brainproducts-brainampseries/ovasCConfigurationBrainProductsBrainampSeries.h
+END
+ovasCHeaderAdapterBrainProductsBrainampSeries.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/brainproducts-brainampseries/ovasCHeaderAdapterBrainProductsBrainampSeries.h
+END
+ovasCDriverBrainProductsBrainampSeries.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/brainproducts-brainampseries/ovasCDriverBrainProductsBrainampSeries.h
+END

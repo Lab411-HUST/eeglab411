@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/KeyBoard/CoAdaptP300/res/layout
+END
+activity_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/KeyBoard/CoAdaptP300/res/layout/activity_main.xml
+END
+activity_tra.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/KeyBoard/CoAdaptP300/res/layout/activity_tra.xml
+END
+icarealtime_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/KeyBoard/CoAdaptP300/res/layout/icarealtime_main.xml
+END
+row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/KeyBoard/CoAdaptP300/res/layout/row.xml
+END
+textview_simple.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/KeyBoard/CoAdaptP300/res/layout/textview_simple.xml
+END
+relativelayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/KeyBoard/CoAdaptP300/res/layout/relativelayout.xml
+END

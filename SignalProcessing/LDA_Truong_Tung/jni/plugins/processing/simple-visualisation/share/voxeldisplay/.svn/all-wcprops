@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/share/voxeldisplay
+END
+ov_voxeldisplay_scalp.mesh
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/share/voxeldisplay/ov_voxeldisplay_scalp.mesh
+END
+ov_voxeldisplay_head.material
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/share/voxeldisplay/ov_voxeldisplay_head.material
+END
+voxel_set_2394.txt
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/share/voxeldisplay/voxel_set_2394.txt
+END
+ov_unitcube.mesh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/share/voxeldisplay/ov_unitcube.mesh
+END
+ov_unitsphere_80faces.mesh
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/share/voxeldisplay/ov_unitsphere_80faces.mesh
+END
+ov_unitcube.material
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/share/voxeldisplay/ov_unitcube.material
+END
+ov_voxeldisplay_face.mesh
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/share/voxeldisplay/ov_voxeldisplay_face.mesh
+END
+ov_unitsphere_80faces.material
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/share/voxeldisplay/ov_unitsphere_80faces.material
+END

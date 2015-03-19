@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/share
+END
+cone_ov.mesh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/share/cone_ov.mesh
+END
+cone_ov.material
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/share/cone_ov.material
+END
+sphere_ov.mesh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/share/sphere_ov.mesh
+END
+OgreCore.zip
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/share/OgreCore.zip
+END
+sphere_ov.material
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/share/sphere_ov.material
+END
+resources.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/share/resources.cfg
+END
+ogre.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/share/ogre.cfg
+END
+openvibe.conf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/share/openvibe.conf
+END
+openvibe-delayed.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/share/openvibe-delayed.conf
+END

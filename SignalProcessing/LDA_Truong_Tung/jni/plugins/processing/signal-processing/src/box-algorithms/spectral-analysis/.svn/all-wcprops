@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/spectral-analysis
+END
+ovpCBoxAlgorithmSpectrumAverage.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/spectral-analysis/ovpCBoxAlgorithmSpectrumAverage.h
+END
+ovpCBoxAlgorithmFrequencyBandSelector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/spectral-analysis/ovpCBoxAlgorithmFrequencyBandSelector.cpp
+END
+ovpCBoxAlgorithmFrequencyBandSelector.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/spectral-analysis/ovpCBoxAlgorithmFrequencyBandSelector.h
+END
+ovpCBoxAlgorithmSpectrumAverage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/spectral-analysis/ovpCBoxAlgorithmSpectrumAverage.cpp
+END

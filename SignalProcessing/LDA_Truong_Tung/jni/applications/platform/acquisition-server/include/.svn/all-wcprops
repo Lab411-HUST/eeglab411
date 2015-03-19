@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/include
+END
+ovasIHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/include/ovasIHeader.h
+END
+ovasIDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/include/ovasIDriver.h
+END
+ovasIAcquisitionServerPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/include/ovasIAcquisitionServerPlugin.h
+END
+ovas_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/include/ovas_base.h
+END
+ovas_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/include/ovas_defines.h
+END

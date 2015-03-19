@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/testapps
+END
+eul.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/testapps/eul.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/testapps/CMakeLists.txt
+END
+qxform.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/testapps/qxform.c
+END
+qmake.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/testapps/qmake.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/testapps/timer.c
+END
+qmult.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/testapps/qmult.c
+END
+matrix_to_posquat.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/quat/testapps/matrix_to_posquat.c
+END

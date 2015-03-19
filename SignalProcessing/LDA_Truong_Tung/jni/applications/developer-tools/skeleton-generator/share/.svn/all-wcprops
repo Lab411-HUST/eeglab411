@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share
+END
+box.cpp-codec-toolkit-skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/box.cpp-codec-toolkit-skeleton
+END
+libintl3.dll
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/libintl3.dll
+END
+sed.exe
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/sed.exe
+END
+box.cpp-skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/box.cpp-skeleton
+END
+driver.cpp-skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/driver.cpp-skeleton
+END
+interface.ui-skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/interface.ui-skeleton
+END
+box.h-skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/box.h-skeleton
+END
+generator-interface.ui
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/generator-interface.ui
+END
+libiconv2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/libiconv2.dll
+END
+driver.h-skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/driver.h-skeleton
+END
+regex2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/regex2.dll
+END
+configuration.cpp-skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/configuration.cpp-skeleton
+END
+configuration.h-skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/configuration.h-skeleton
+END
+readme-box.txt-skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/readme-box.txt-skeleton
+END
+readme-driver.txt-skeleton
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/skeleton-generator/share/readme-driver.txt-skeleton
+END

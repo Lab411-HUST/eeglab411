@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/algorithm
+END
+ovkCAlgorithmProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/algorithm/ovkCAlgorithmProxy.h
+END
+ovkCAlgorithmProto.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/algorithm/ovkCAlgorithmProto.h
+END
+ovkCAlgorithmContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/algorithm/ovkCAlgorithmContext.h
+END
+ovkCAlgorithmManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/algorithm/ovkCAlgorithmManager.cpp
+END
+ovkCAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/algorithm/ovkCAlgorithm.cpp
+END
+ovkCAlgorithmManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/algorithm/ovkCAlgorithmManager.h
+END
+ovkCAlgorithmProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/algorithm/ovkCAlgorithmProxy.cpp
+END
+ovkCAlgorithmProto.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/algorithm/ovkCAlgorithmProto.cpp
+END
+ovkCAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/algorithm/ovkCAlgorithm.h
+END
+ovkCAlgorithmContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/algorithm/ovkCAlgorithmContext.cpp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/algorithms
+END
+ovpCApplyFisherLdaFunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/algorithms/ovpCApplyFisherLdaFunction.cpp
+END
+ovpCFeatureExtractionLda.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/algorithms/ovpCFeatureExtractionLda.cpp
+END
+ovpCApplyFisherLdaFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/algorithms/ovpCApplyFisherLdaFunction.h
+END
+ovpCNaiveBayesApplyFunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/algorithms/ovpCNaiveBayesApplyFunction.cpp
+END
+ovpCFeatureExtractionLda.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/algorithms/ovpCFeatureExtractionLda.h
+END
+ovpCComputeFisherLdaFunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/algorithms/ovpCComputeFisherLdaFunction.cpp
+END
+ovpCNaiveBayesApplyFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/algorithms/ovpCNaiveBayesApplyFunction.h
+END
+ovpCComputeFisherLdaFunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/algorithms/ovpCComputeFisherLdaFunction.h
+END

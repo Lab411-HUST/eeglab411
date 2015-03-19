@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/box-tutorials
+END
+run-command.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/box-tutorials/run-command.xml
+END
+sound-player.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/box-tutorials/sound-player.xml
+END
+sign-change-detector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/box-tutorials/sign-change-detector.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/filters
+END
+ovpCBoxAlgorithmCommonAverageReference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/filters/ovpCBoxAlgorithmCommonAverageReference.cpp
+END
+ovpCBoxAlgorithmSpatialFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/filters/ovpCBoxAlgorithmSpatialFilter.cpp
+END
+ovpCSpatialFilterBoxAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/filters/ovpCSpatialFilterBoxAlgorithm.cpp
+END
+ovpCBoxAlgorithmCommonAverageReference.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/filters/ovpCBoxAlgorithmCommonAverageReference.h
+END
+ovpCBoxAlgorithmSpatialFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/filters/ovpCBoxAlgorithmSpatialFilter.h
+END

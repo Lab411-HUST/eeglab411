@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/xml/include/xml
+END
+IReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/xml/include/xml/IReader.h
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/xml/include/xml/defines.h
+END
+TWriterCallbackProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/xml/include/xml/TWriterCallbackProxy.h
+END
+TReaderCallbackProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/xml/include/xml/TReaderCallbackProxy.h
+END
+IWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/xml/include/xml/IWriter.h
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn
+END
+vrpn_Button.i
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/vrpn_Button.i
+END
+vrpn_Tracker.i
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/vrpn_Tracker.i
+END
+vrpn_ForceDevice.i
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/vrpn_ForceDevice.i
+END
+vrpn_Analog_Output.i
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/vrpn_Analog_Output.i
+END
+Makefile.python
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/Makefile.python
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/README
+END
+vrpn_Analog.i
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/vrpn_Analog.i
+END
+vrpn_Text.i
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/vrpn_Text.i
+END
+python-callback-wrapper.i
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/python-callback-wrapper.i
+END
+vrpn_Auxiliary_Logger.i
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/vrpn_Auxiliary_Logger.i
+END
+vrpn_Poser.i
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/vrpn_Poser.i
+END
+client-only.i
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/client-only.i
+END
+vrpn_Dial.i
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/python_vrpn/vrpn_Dial.i
+END

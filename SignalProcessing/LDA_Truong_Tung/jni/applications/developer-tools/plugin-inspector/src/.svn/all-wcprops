@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/plugin-inspector/src
+END
+ovpiCPluginObjectDescEnumAlgorithmSnapshotGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/plugin-inspector/src/ovpiCPluginObjectDescEnumAlgorithmSnapshotGenerator.cpp
+END
+ovpiCPluginObjectDescEnum.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/plugin-inspector/src/ovpiCPluginObjectDescEnum.cpp
+END
+ovpiCPluginObjectDescEnumAlgorithmGlobalDefinesGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/plugin-inspector/src/ovpiCPluginObjectDescEnumAlgorithmGlobalDefinesGenerator.h
+END
+ovpi_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/plugin-inspector/src/ovpi_base.h
+END
+ovpiCPluginObjectDescEnumAlgorithmSnapshotGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/plugin-inspector/src/ovpiCPluginObjectDescEnumAlgorithmSnapshotGenerator.h
+END
+ovpi_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/plugin-inspector/src/ovpi_defines.h
+END
+ovpiCPluginObjectDescEnum.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/plugin-inspector/src/ovpiCPluginObjectDescEnum.h
+END
+ovpiCPluginObjectDescEnumBoxAlgorithmSnapshotGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/plugin-inspector/src/ovpiCPluginObjectDescEnumBoxAlgorithmSnapshotGenerator.cpp
+END
+ovpi_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/plugin-inspector/src/ovpi_main.cpp
+END
+ovpiCPluginObjectDescEnumBoxAlgorithmSnapshotGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/plugin-inspector/src/ovpiCPluginObjectDescEnumBoxAlgorithmSnapshotGenerator.h
+END
+ovpiCPluginObjectDescEnumAlgorithmGlobalDefinesGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/developer-tools/plugin-inspector/src/ovpiCPluginObjectDescEnumAlgorithmGlobalDefinesGenerator.cpp
+END

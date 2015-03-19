@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/doc
+END
+Doc_BoxAlgorithm_ClassifierProcessor.dox-part
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/doc/Doc_BoxAlgorithm_ClassifierProcessor.dox-part
+END
+ovpCLDAClassifier.dox
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/doc/ovpCLDAClassifier.dox
+END
+Doc_BoxAlgorithm_ConfusionMatrix.dox-part
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/doc/Doc_BoxAlgorithm_ConfusionMatrix.dox-part
+END
+Doc_BoxAlgorithm_ClassifierTrainer.dox-part
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/doc/Doc_BoxAlgorithm_ClassifierTrainer.dox-part
+END
+Doc_BoxAlgorithm_VotingClassifier.dox-part
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/doc/Doc_BoxAlgorithm_VotingClassifier.dox-part
+END

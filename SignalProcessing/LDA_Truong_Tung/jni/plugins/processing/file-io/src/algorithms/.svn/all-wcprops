@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/algorithms
+END
+ovpCAlgorithmOVMatrixFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/algorithms/ovpCAlgorithmOVMatrixFileReader.h
+END
+ovpCAlgorithmOVMatrixFileWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/algorithms/ovpCAlgorithmOVMatrixFileWriter.cpp
+END
+ovpCAlgorithmOVMatrixFileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/algorithms/ovpCAlgorithmOVMatrixFileWriter.h
+END
+ovpCAlgorithmOVMatrixFileReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/algorithms/ovpCAlgorithmOVMatrixFileReader.cpp
+END

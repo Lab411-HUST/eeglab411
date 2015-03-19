@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/scripts
+END
+egi-default-start.script
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/scripts/egi-default-start.script
+END
+egi-default-initialize.script
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/scripts/egi-default-initialize.script
+END
+egi-default-uninitialize.script
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/scripts/egi-default-uninitialize.script
+END
+egi-default-stop.script
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/scripts/egi-default-stop.script
+END

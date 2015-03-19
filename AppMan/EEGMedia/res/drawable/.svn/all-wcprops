@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5/trunk/AppMan/EEGMedia/res/drawable
+END
+shape_list_normal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5/trunk/AppMan/EEGMedia/res/drawable/shape_list_normal.xml
+END
+button_prev_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/AppMan/EEGMedia/res/drawable/button_prev_selector.xml
+END
+shape_list_press.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/AppMan/EEGMedia/res/drawable/shape_list_press.xml
+END
+togglebutton_start_pause_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/AppMan/EEGMedia/res/drawable/togglebutton_start_pause_selector.xml
+END
+button_pause_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5/trunk/AppMan/EEGMedia/res/drawable/button_pause_selector.xml
+END
+button_next_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/AppMan/EEGMedia/res/drawable/button_next_selector.xml
+END
+listnoforcus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5/trunk/AppMan/EEGMedia/res/drawable/listnoforcus.xml
+END
+list_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5/trunk/AppMan/EEGMedia/res/drawable/list_selector.xml
+END
+button_play_selector.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5/trunk/AppMan/EEGMedia/res/drawable/button_play_selector.xml
+END

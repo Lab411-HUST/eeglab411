@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice
+END
+EEGService.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/EEGService.class
+END
+EmotionalService$EEGCapture.class
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/EmotionalService$EEGCapture.class
+END
+R$dimen.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/R$dimen.class
+END
+R$id.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/R$id.class
+END
+BuildConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/BuildConfig.class
+END
+MainActivity$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/MainActivity$1.class
+END
+R$style.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/R$style.class
+END
+MainActivity$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/MainActivity$2.class
+END
+MainActivity$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/MainActivity$3.class
+END
+EEGService$EEGCapture.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/EEGService$EEGCapture.class
+END
+EEGService$EEGBinder.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/EEGService$EEGBinder.class
+END
+R$menu.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/R$menu.class
+END
+R$string.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/R$string.class
+END
+Calculate.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/Calculate.class
+END
+EmotionalService$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/EmotionalService$1.class
+END
+R$attr.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/R$attr.class
+END
+EEGService$EEGHandling$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/EEGService$EEGHandling$1.class
+END
+EmotionalService$EmoBinder.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/EmotionalService$EmoBinder.class
+END
+MainActivity.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/MainActivity.class
+END
+EEGService$EEGHandling$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/EEGService$EEGHandling$2.class
+END
+R.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/R.class
+END
+EEGService$EEGHandling$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/EEGService$EEGHandling$3.class
+END
+R$layout.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/R$layout.class
+END
+EEGService$EEGHandling$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/EEGService$EEGHandling$4.class
+END
+R$drawable.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/R$drawable.class
+END
+EmotionalService.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/EmotionalService.class
+END
+MainActivity$EEGCapture.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/MainActivity$EEGCapture.class
+END
+EEGService$EEGHandling.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5/trunk/AppMan/EmotionalService/bin/classes/lab411/eeg/emotionalservice/EEGService$EEGHandling.class
+END

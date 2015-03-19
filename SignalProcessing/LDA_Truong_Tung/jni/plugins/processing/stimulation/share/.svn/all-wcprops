@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/share
+END
+lua-stimulator-legacy.lua
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/share/lua-stimulator-legacy.lua
+END
+lua-stimulator-stim-codes.lua
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/share/lua-stimulator-stim-codes.lua
+END
+ov_beep.wav
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/share/ov_beep.wav
+END
+keyboard-stimulator.ui
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/share/keyboard-stimulator.ui
+END
+graz_stimulation_scenario.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/share/graz_stimulation_scenario.xml
+END
+simple-keyboard-to-stimulations.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/share/simple-keyboard-to-stimulations.txt
+END
+graz_keyboard_to_stimulations.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/share/graz_keyboard_to_stimulations.txt
+END

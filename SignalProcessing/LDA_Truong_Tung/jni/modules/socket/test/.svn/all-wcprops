@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/socket/test
+END
+test_socket_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/socket/test/test_socket_client.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/socket/test/CMakeLists.txt
+END
+test_socket_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/socket/test/test_socket_server.cpp
+END

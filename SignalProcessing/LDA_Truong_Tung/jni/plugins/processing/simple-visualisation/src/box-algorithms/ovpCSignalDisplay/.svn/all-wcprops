@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSignalDisplay
+END
+ovpCSignalDisplayLeftRuler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSignalDisplay/ovpCSignalDisplayLeftRuler.cpp
+END
+ovpCSignalChannelDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSignalDisplay/ovpCSignalChannelDisplay.cpp
+END
+ovpCSignalDisplayLeftRuler.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSignalDisplay/ovpCSignalDisplayLeftRuler.h
+END
+ovpCSignalDisplayView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSignalDisplay/ovpCSignalDisplayView.cpp
+END
+ovpCSignalChannelDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSignalDisplay/ovpCSignalChannelDisplay.h
+END
+ovpCSignalDisplayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSignalDisplay/ovpCSignalDisplayView.h
+END

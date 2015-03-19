@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/bin
+END
+RTInst.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/bin/RTInst.dll
+END
+MitsarDll.dll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/bin/MitsarDll.dll
+END
+dllMicromed.dll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/bin/dllMicromed.dll
+END
+NeXusDLL.dll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/bin/NeXusDLL.dll
+END

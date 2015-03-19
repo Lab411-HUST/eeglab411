@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCPowerSpectrumDisplay
+END
+ovpCPowerSpectrumDisplayView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCPowerSpectrumDisplay/ovpCPowerSpectrumDisplayView.cpp
+END
+ovpCPowerSpectrumChannelDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCPowerSpectrumDisplay/ovpCPowerSpectrumChannelDisplay.h
+END
+ovpCPowerSpectrumDatabase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCPowerSpectrumDisplay/ovpCPowerSpectrumDatabase.cpp
+END
+ovpCPowerSpectrumDisplayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCPowerSpectrumDisplay/ovpCPowerSpectrumDisplayView.h
+END
+ovpCPowerSpectrumDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCPowerSpectrumDisplay/ovpCPowerSpectrumDatabase.h
+END
+ovpCPowerSpectrumChannelDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCPowerSpectrumDisplay/ovpCPowerSpectrumChannelDisplay.cpp
+END

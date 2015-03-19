@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader
+END
+CXMLRandomOrderNodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLRandomOrderNodeReader.cpp
+END
+CXMLLoopFiniteNodeReader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLLoopFiniteNodeReader.hpp
+END
+CXMLParameterReader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLParameterReader.hpp
+END
+CXMLRandomOrderNodeReader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLRandomOrderNodeReader.hpp
+END
+CXMLActionWaitTimeNodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLActionWaitTimeNodeReader.cpp
+END
+CXMLActionWaitTimeNodeReader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLActionWaitTimeNodeReader.hpp
+END
+CXMLActionSendEventNodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLActionSendEventNodeReader.cpp
+END
+CXMLSwitchProbabilistNodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLSwitchProbabilistNodeReader.cpp
+END
+CXMLActionSendEventNodeReader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLActionSendEventNodeReader.hpp
+END
+CXMLLoopInfiniteNodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLLoopInfiniteNodeReader.cpp
+END
+CXMLLoopWaitEventNodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLLoopWaitEventNodeReader.cpp
+END
+CXMLSwitchProbabilistNodeReader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLSwitchProbabilistNodeReader.hpp
+END
+CXMLSwitchEventNodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLSwitchEventNodeReader.cpp
+END
+CXMLActionWaitEventNodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLActionWaitEventNodeReader.cpp
+END
+CXMLLoopInfiniteNodeReader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLLoopInfiniteNodeReader.hpp
+END
+CXMLLoopWaitEventNodeReader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLLoopWaitEventNodeReader.hpp
+END
+CXMLLoopFiniteNodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLLoopFiniteNodeReader.cpp
+END
+CXMLSwitchEventNodeReader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLSwitchEventNodeReader.hpp
+END
+CXMLActionWaitEventNodeReader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLActionWaitEventNodeReader.hpp
+END
+CXMLParameterReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/XMLNodeReader/CXMLParameterReader.cpp
+END

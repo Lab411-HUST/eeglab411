@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel
+END
+ovIKernelObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/ovIKernelObject.h
+END
+ovTParameterHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/ovTParameterHandler.h
+END
+ovIObjectVisitorContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/ovIObjectVisitorContext.h
+END
+ovITypeManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/ovITypeManager.h
+END
+ovIKernelDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/ovIKernelDesc.h
+END
+ovIKernelObjectFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/ovIKernelObjectFactory.h
+END
+ovIParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/ovIParameter.h
+END
+ovIConfigurable.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/ovIConfigurable.h
+END
+ovIKernelContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/kernel/ovIKernelContext.h
+END

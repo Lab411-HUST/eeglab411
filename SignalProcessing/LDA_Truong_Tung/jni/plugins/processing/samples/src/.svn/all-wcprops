@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/samples/src
+END
+ovpCScenarioImporterXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/samples/src/ovpCScenarioImporterXML.h
+END
+ovpCScenarioExporterSVG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/samples/src/ovpCScenarioExporterSVG.cpp
+END
+ovpCScenarioExporterXML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/samples/src/ovpCScenarioExporterXML.cpp
+END
+ovp_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/samples/src/ovp_defines.h
+END
+ovp_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/samples/src/ovp_main.cpp
+END
+ovpCScenarioExporterSVG.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/samples/src/ovpCScenarioExporterSVG.h
+END
+ovpCScenarioExporterXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/samples/src/ovpCScenarioExporterXML.h
+END
+ovpCScenarioImporterXML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/samples/src/ovpCScenarioImporterXML.cpp
+END

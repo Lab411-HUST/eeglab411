@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5/trunk/AppMan/EmotionSignalGraph/obj/local/armeabi/objs/signal2/svm
+END
+svm.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5/trunk/AppMan/EmotionSignalGraph/obj/local/armeabi/objs/signal2/svm/svm.o.d
+END
+predict.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/AppMan/EmotionSignalGraph/obj/local/armeabi/objs/signal2/svm/predict.o.d
+END
+train.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5/trunk/AppMan/EmotionSignalGraph/obj/local/armeabi/objs/signal2/svm/train.o.d
+END
+svm-predict.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/AppMan/EmotionSignalGraph/obj/local/armeabi/objs/signal2/svm/svm-predict.o.d
+END
+svm-train.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/AppMan/EmotionSignalGraph/obj/local/armeabi/objs/signal2/svm/svm-train.o.d
+END
+samsung_svm.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/AppMan/EmotionSignalGraph/obj/local/armeabi/objs/signal2/svm/samsung_svm.o.d
+END

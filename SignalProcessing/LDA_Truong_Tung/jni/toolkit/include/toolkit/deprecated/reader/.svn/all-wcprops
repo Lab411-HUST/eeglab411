@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/reader
+END
+ovtkIBoxAlgorithmSpectrumInputReaderCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/reader/ovtkIBoxAlgorithmSpectrumInputReaderCallback.h
+END
+ovtkIBoxAlgorithmExperimentInformationInputReaderCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/reader/ovtkIBoxAlgorithmExperimentInformationInputReaderCallback.h
+END
+ovtkIBoxAlgorithmStimulationInputReaderCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/reader/ovtkIBoxAlgorithmStimulationInputReaderCallback.h
+END
+ovtkIBoxAlgorithmStreamedMatrixInputReaderCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/reader/ovtkIBoxAlgorithmStreamedMatrixInputReaderCallback.h
+END
+ovtkIBoxAlgorithmSignalInputReaderCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/reader/ovtkIBoxAlgorithmSignalInputReaderCallback.h
+END
+ovtkIBoxAlgorithmFeatureVectorInputReaderCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/reader/ovtkIBoxAlgorithmFeatureVectorInputReaderCallback.h
+END
+ovtkIBoxAlgorithmEBMLInputReaderCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/reader/ovtkIBoxAlgorithmEBMLInputReaderCallback.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/egi-ampserver
+END
+ovasCConfigurationEGIAmpServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/egi-ampserver/ovasCConfigurationEGIAmpServer.cpp
+END
+ovasCDriverEGIAmpServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/egi-ampserver/ovasCDriverEGIAmpServer.cpp
+END
+ovasCConfigurationEGIAmpServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/egi-ampserver/ovasCConfigurationEGIAmpServer.h
+END
+ovasCDriverEGIAmpServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/egi-ampserver/ovasCDriverEGIAmpServer.h
+END

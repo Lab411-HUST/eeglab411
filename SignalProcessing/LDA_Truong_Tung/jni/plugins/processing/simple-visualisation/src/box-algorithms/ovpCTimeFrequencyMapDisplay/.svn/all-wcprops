@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCTimeFrequencyMapDisplay
+END
+ovpCTimeFrequencyMapChannelDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCTimeFrequencyMapDisplay/ovpCTimeFrequencyMapChannelDisplay.cpp
+END
+ovpCTimeFrequencyMapDisplayView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCTimeFrequencyMapDisplay/ovpCTimeFrequencyMapDisplayView.cpp
+END
+ovpCTimeFrequencyMapChannelDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCTimeFrequencyMapDisplay/ovpCTimeFrequencyMapChannelDisplay.h
+END
+ovpCTimeFrequencyMapDisplayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCTimeFrequencyMapDisplay/ovpCTimeFrequencyMapDisplayView.h
+END

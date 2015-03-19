@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/algorithms/xml-scenario
+END
+ovpCAlgorithmXMLScenarioImporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/algorithms/xml-scenario/ovpCAlgorithmXMLScenarioImporter.cpp
+END
+ovpCAlgorithmXMLScenarioImporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/algorithms/xml-scenario/ovpCAlgorithmXMLScenarioImporter.h
+END
+ovpCAlgorithmXMLScenarioExporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/algorithms/xml-scenario/ovpCAlgorithmXMLScenarioExporter.cpp
+END
+ovpCAlgorithmXMLScenarioExporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/algorithms/xml-scenario/ovpCAlgorithmXMLScenarioExporter.h
+END

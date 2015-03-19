@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards
+END
+ExternalAnyKeyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/ExternalAnyKeyboard.java
+END
+KeyboardCondensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/KeyboardCondensor.java
+END
+AnyPopupKeyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/AnyPopupKeyboard.java
+END
+GenericKeyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/GenericKeyboard.java
+END
+KeyEventStateMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/KeyEventStateMachine.java
+END
+Keyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/Keyboard.java
+END
+KeyboardAddOnAndBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/KeyboardAddOnAndBuilder.java
+END
+KeyboardDimens.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/KeyboardDimens.java
+END
+DictionarySelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/DictionarySelector.java
+END
+HardKeyboardSequenceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/HardKeyboardSequenceHandler.java
+END
+AnyKeyboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/AnyKeyboard.java
+END
+KeyboardFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/KeyboardFactory.java
+END
+KeyboardSwitcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/keyboards/KeyboardSwitcher.java
+END

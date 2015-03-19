@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms
+END
+ovpCAlgorithmClassifierNULL.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmClassifierNULL.h
+END
+ovpCAlgorithmConfusionMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmConfusionMatrix.cpp
+END
+ovpCAlgorithmConditionedCovariance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmConditionedCovariance.cpp
+END
+ovpCAlgorithmClassifierBliffCFIS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmClassifierBliffCFIS.cpp
+END
+ovpCAlgorithmConfusionMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmConfusionMatrix.h
+END
+ovpCAlgorithmConditionedCovariance.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmConditionedCovariance.h
+END
+ovpCAlgorithmClassifierShrinkageLDA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmClassifierShrinkageLDA.cpp
+END
+ovpCAlgorithmClassifierBliffCFIS.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmClassifierBliffCFIS.h
+END
+ovpCAlgorithmClassifierLDA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmClassifierLDA.cpp
+END
+ovpCAlgorithmClassifierShrinkageLDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmClassifierShrinkageLDA.h
+END
+ovpCAlgorithmClassifierBliffLDA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmClassifierBliffLDA.cpp
+END
+ovpCAlgorithmClassifierSVM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmClassifierSVM.cpp
+END
+ovpCAlgorithmClassifierLDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmClassifierLDA.h
+END
+ovpCAlgorithmClassifierBliffLDA.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmClassifierBliffLDA.h
+END
+ovpCAlgorithmClassifierSVM.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmClassifierSVM.h
+END
+ovpCAlgorithmClassifierNULL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/classification/src/algorithms/ovpCAlgorithmClassifierNULL.cpp
+END

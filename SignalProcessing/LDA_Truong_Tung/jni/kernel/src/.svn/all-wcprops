@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src
+END
+ovk_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/ovk_base.h
+END
+ovk_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/ovk_defines.h
+END
+ovk_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/ovk_main.cpp
+END
+ovk_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/ovk_tools.h
+END

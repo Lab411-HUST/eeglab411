@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/connectivity
+END
+ovpCBoxAlgorithmConnectivityMeasure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/connectivity/ovpCBoxAlgorithmConnectivityMeasure.cpp
+END
+ovpCBoxAlgorithmConnectivityMeasure.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/box-algorithms/connectivity/ovpCBoxAlgorithmConnectivityMeasure.h
+END

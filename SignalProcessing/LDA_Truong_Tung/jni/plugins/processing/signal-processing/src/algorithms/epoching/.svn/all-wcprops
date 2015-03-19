@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/epoching
+END
+ovpCAlgorithmStimulationBasedEpoching.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/epoching/ovpCAlgorithmStimulationBasedEpoching.h
+END
+ovpCAlgorithmStimulationBasedEpoching.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/epoching/ovpCAlgorithmStimulationBasedEpoching.cpp
+END

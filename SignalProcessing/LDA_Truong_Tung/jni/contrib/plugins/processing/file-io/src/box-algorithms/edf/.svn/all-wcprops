@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/file-io/src/box-algorithms/edf
+END
+edflib.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/file-io/src/box-algorithms/edf/edflib.c
+END
+edflib.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/file-io/src/box-algorithms/edf/edflib.h
+END

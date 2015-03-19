@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel
+END
+ovkCKernelContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkCKernelContext.h
+END
+ovkCObjectVisitorContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkCObjectVisitorContext.cpp
+END
+ovkTKernelObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkTKernelObject.h
+END
+ovkIGtkOVCustomHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkIGtkOVCustomHandler.h
+END
+ovkCKernelObjectFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkCKernelObjectFactory.cpp
+END
+ovkCObjectVisitorContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkCObjectVisitorContext.h
+END
+ovkCKernelObjectFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkCKernelObjectFactory.h
+END
+ovkCConfigurable.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkCConfigurable.h
+END
+ovkTParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkTParameter.h
+END
+ovkCTypeManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkCTypeManager.cpp
+END
+ovkCTypeManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkCTypeManager.h
+END
+ovkGtkOVCustom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkGtkOVCustom.cpp
+END
+ovkCParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkCParameter.h
+END
+ovkCKernelContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkCKernelContext.cpp
+END
+ovkTConfigurable.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkTConfigurable.h
+END
+ovkGtkOVCustom.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/ovkGtkOVCustom.h
+END

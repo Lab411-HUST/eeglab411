@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/tools/src/box-algorithms
+END
+ovpCBoxAlgorithmStimulationListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/tools/src/box-algorithms/ovpCBoxAlgorithmStimulationListener.h
+END
+ovpCBoxAlgorithmMatrixValidityChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/tools/src/box-algorithms/ovpCBoxAlgorithmMatrixValidityChecker.h
+END
+ovpCBoxAlgorithmMessageSpy.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/tools/src/box-algorithms/ovpCBoxAlgorithmMessageSpy.h
+END
+ovpCBoxAlgorithmLatencyEvaluation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/tools/src/box-algorithms/ovpCBoxAlgorithmLatencyEvaluation.cpp
+END
+ovpCBoxAlgorithmEBMLStreamSpy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/tools/src/box-algorithms/ovpCBoxAlgorithmEBMLStreamSpy.cpp
+END
+ovpCBoxAlgorithmEBMLStreamSpy.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/tools/src/box-algorithms/ovpCBoxAlgorithmEBMLStreamSpy.h
+END
+ovpCBoxAlgorithmLatencyEvaluation.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/tools/src/box-algorithms/ovpCBoxAlgorithmLatencyEvaluation.h
+END
+ovpCBoxAlgorithmStimulationListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/tools/src/box-algorithms/ovpCBoxAlgorithmStimulationListener.cpp
+END
+ovpCBoxAlgorithmMatrixValidityChecker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/tools/src/box-algorithms/ovpCBoxAlgorithmMatrixValidityChecker.cpp
+END
+ovpCBoxAlgorithmMessageSpy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/tools/src/box-algorithms/ovpCBoxAlgorithmMessageSpy.cpp
+END

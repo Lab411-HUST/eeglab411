@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/mi_train"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Training"/>
+    <item
+        android:id="@+id/mi_run"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="Running"/>
+       <item
+        android:id="@+id/mi_display"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="Display Signal"/> 
+
+</menu>
+/menu>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/algorithms
+END
+ovpCAlgorithmSphericalSplineInterpolation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/algorithms/ovpCAlgorithmSphericalSplineInterpolation.cpp
+END
+ovpCAlgorithmLevelMeasure.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/algorithms/ovpCAlgorithmLevelMeasure.h
+END
+ovpCAlgorithmSphericalSplineInterpolation.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/algorithms/ovpCAlgorithmSphericalSplineInterpolation.h
+END
+linpack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/algorithms/linpack.cpp
+END
+spline_sph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/algorithms/spline_sph.cpp
+END
+linpack.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/algorithms/linpack.h
+END
+ovpCAlgorithmLevelMeasure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/algorithms/ovpCAlgorithmLevelMeasure.cpp
+END
+spline_sph.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/algorithms/spline_sph.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/basic
+END
+ovpCHilbertTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/basic/ovpCHilbertTransform.h
+END
+ovpCAlgorithmARBurgMethod.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/basic/ovpCAlgorithmARBurgMethod.cpp
+END
+ovpCAlgorithmARBurgMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/basic/ovpCAlgorithmARBurgMethod.h
+END
+ovpCMatrixAverage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/basic/ovpCMatrixAverage.cpp
+END
+ovpCMatrixAverage.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/basic/ovpCMatrixAverage.h
+END
+ovpCHilbertTransform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/signal-processing/src/algorithms/basic/ovpCHilbertTransform.cpp
+END

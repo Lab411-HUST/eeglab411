@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/emotiv-epoc
+END
+ovasCDriverEmotivEPOC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/emotiv-epoc/ovasCDriverEmotivEPOC.cpp
+END
+ovasCConfigurationEmotivEPOC.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/emotiv-epoc/ovasCConfigurationEmotivEPOC.h
+END
+ovasCDriverEmotivEPOC.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/emotiv-epoc/ovasCDriverEmotivEPOC.h
+END
+ovasCConfigurationEmotivEPOC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/emotiv-epoc/ovasCConfigurationEmotivEPOC.cpp
+END

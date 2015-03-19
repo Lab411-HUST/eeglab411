@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/README
+END
+printcereal.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/printcereal.dsp
+END
+c_interface_example.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/c_interface_example.c
+END
+clock_drift_estimator.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/clock_drift_estimator.dsp
+END
+forcedevice_test_client.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/forcedevice_test_client.dsp
+END
+checklogfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/checklogfile.c
+END
+printvals.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/printvals.c
+END
+sound_client.old
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/sound_client.old
+END
+test_zaber.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/test_zaber.vcproj
+END
+testimager_client.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/testimager_client.vcproj
+END
+phan_client.C
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/phan_client.C
+END
+test_imager.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/test_imager.vcproj
+END
+text.C
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/text.C
+END
+printvals.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/printvals.dsp
+END
+tracker_to_poser.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/tracker_to_poser.vcproj
+END
+sphere_client.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/sphere_client.dsp
+END
+run_auxiliary_logger.C
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/run_auxiliary_logger.C
+END
+forwarderClient.C
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/forwarderClient.C
+END
+forcedevice_test_client.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/forcedevice_test_client.vcproj
+END
+test_mutex.C
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/test_mutex.C
+END
+vrpn_ping.C
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/vrpn_ping.C
+END
+c_interface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/c_interface.cpp
+END
+test_Zaber.C
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/test_Zaber.C
+END
+test_imager.C
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/test_imager.C
+END
+tracker_to_poser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/tracker_to_poser.cpp
+END
+logfiletypes.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/logfiletypes.c
+END
+testimager_client.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/testimager_client.dsp
+END
+test_zaber.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/test_zaber.dsp
+END
+vrpn_print_devices.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/vrpn_print_devices.dsp
+END
+printcereal.C
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/printcereal.C
+END
+clock_drift_estimator.C
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/clock_drift_estimator.C
+END
+run_auxiliary_logger.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/run_auxiliary_logger.vcproj
+END
+forcedevice_test_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/forcedevice_test_client.cpp
+END
+midi_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/midi_client.c
+END
+ohm_client.C
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/ohm_client.C
+END
+vrpn_print_devices.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/vrpn_print_devices.vcproj
+END
+sphere_client.C
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/sphere_client.C
+END
+add_vrpn_cookie.C
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/add_vrpn_cookie.C
+END
+sound_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/sound_client.c
+END
+vrpn_print_messages.C
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/vrpn_print_messages.C
+END
+ff_client.C
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/ff_client.C
+END
+printcereal.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/printcereal.vcproj
+END
+clock_drift_estimator.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/clock_drift_estimator.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/Makefile
+END
+bdbox_client.C
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/bdbox_client.C
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/CMakeLists.txt
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/.cvsignore
+END
+testSharedObject.C
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/testSharedObject.C
+END
+run_auxiliary_logger.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/run_auxiliary_logger.dsp
+END
+vrpn_LamportClock.t.C
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/vrpn_LamportClock.t.C
+END
+testimager_client.C
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/testimager_client.C
+END
+printvals.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/printvals.vcproj
+END
+vrpn_print_devices.C
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/vrpn_print_devices.C
+END
+sphere_client.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/sphere_client.vcproj
+END
+logfilesenders.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/logfilesenders.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/ChangeLog
+END
+c_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/c_interface.h
+END
+test_imager.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/test_imager.dsp
+END
+tracker_to_poser.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/client_src/tracker_to_poser.dsp
+END

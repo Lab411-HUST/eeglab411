@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/generic-raw-reader
+END
+ovasCDriverGenericRawTelnetReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/generic-raw-reader/ovasCDriverGenericRawTelnetReader.cpp
+END
+ovasCConfigurationGenericRawReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/generic-raw-reader/ovasCConfigurationGenericRawReader.cpp
+END
+ovasCDriverGenericRawFileReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/generic-raw-reader/ovasCDriverGenericRawFileReader.cpp
+END
+ovasCDriverGenericRawReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/generic-raw-reader/ovasCDriverGenericRawReader.cpp
+END
+ovasCConfigurationGenericRawReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/generic-raw-reader/ovasCConfigurationGenericRawReader.h
+END
+ovasCDriverGenericRawTelnetReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/generic-raw-reader/ovasCDriverGenericRawTelnetReader.h
+END
+ovasCDriverGenericRawFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/generic-raw-reader/ovasCDriverGenericRawFileReader.h
+END
+ovasCDriverGenericRawReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/generic-raw-reader/ovasCDriverGenericRawReader.h
+END

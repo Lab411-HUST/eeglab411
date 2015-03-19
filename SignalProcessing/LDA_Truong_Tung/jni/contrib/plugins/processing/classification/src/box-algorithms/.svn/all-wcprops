@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/box-algorithms
+END
+ovpCLDABoxAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/box-algorithms/ovpCLDABoxAlgorithm.cpp
+END
+ovpCNaiveBayesApplyBoxAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/box-algorithms/ovpCNaiveBayesApplyBoxAlgorithm.h
+END
+ovpCLDABoxAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/box-algorithms/ovpCLDABoxAlgorithm.h
+END
+ovpCNaiveBayesApplyBoxAlgorithm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/contrib/plugins/processing/classification/src/box-algorithms/ovpCNaiveBayesApplyBoxAlgorithm.cpp
+END

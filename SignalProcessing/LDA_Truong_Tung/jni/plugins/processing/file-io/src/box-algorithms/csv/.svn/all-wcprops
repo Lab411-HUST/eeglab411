@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/csv
+END
+ovpCBoxAlgorithmCSVFileReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/csv/ovpCBoxAlgorithmCSVFileReader.cpp
+END
+ovpCBoxAlgorithmCSVFileReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/csv/ovpCBoxAlgorithmCSVFileReader.h
+END
+ovpCBoxAlgorithmCSVFileWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/csv/ovpCBoxAlgorithmCSVFileWriter.cpp
+END
+ovpCBoxAlgorithmCSVFileWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/file-io/src/box-algorithms/csv/ovpCBoxAlgorithmCSVFileWriter.h
+END

@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player
+END
+ovkCScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCScheduler.h
+END
+ovkCOgreWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreWindow.cpp
+END
+ovkCOgreResourceGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreResourceGroup.h
+END
+ovkCMessageSignal.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCMessageSignal.h
+END
+ovkCOgreAnimator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreAnimator.cpp
+END
+ovkCOgreObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreObject.h
+END
+ovkCMessageEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCMessageEvent.h
+END
+ovkCPlayerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCPlayerManager.h
+END
+ovkCPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCPlayer.cpp
+END
+ovkCMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCMaterial.cpp
+END
+ovkMaterialAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkMaterialAction.h
+END
+ovkCSimulatedBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCSimulatedBox.cpp
+END
+ovkCPlayerContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCPlayerContext.cpp
+END
+ovkCBoxAlgorithmContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCBoxAlgorithmContext.cpp
+END
+ovkTMessage.inl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkTMessage.inl
+END
+ovkCMessageClock.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCMessageClock.h
+END
+ovkCVertexBufferAnimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCVertexBufferAnimator.h
+END
+ovkCBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCBuffer.cpp
+END
+ovkCOgreScene.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreScene.cpp
+END
+ovkCMessageWithData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCMessageWithData.cpp
+END
+ovkCTransformAnimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCTransformAnimator.h
+END
+ovkCVertexData.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCVertexData.h
+END
+ovkCOgreVisualisation.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreVisualisation.h
+END
+ovkCColorAnimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCColorAnimator.h
+END
+ovkCScheduler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCScheduler.cpp
+END
+ovkCOgreResourceGroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreResourceGroup.cpp
+END
+ovkCOgreFrameListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreFrameListener.h
+END
+ovkCOgreObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreObject.cpp
+END
+ovkCPlayerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCPlayerManager.cpp
+END
+ovkMaterialAction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkMaterialAction.cpp
+END
+ovkCOgreWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreWindow.h
+END
+ovkCOgreAnimator.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreAnimator.h
+END
+ovkCPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCPlayer.h
+END
+ovkCVertexBufferAnimator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCVertexBufferAnimator.cpp
+END
+ovkCMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCMaterial.h
+END
+ovkCSimulatedBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCSimulatedBox.h
+END
+ovkCPlayerContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCPlayerContext.h
+END
+ovkCTransformAnimator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCTransformAnimator.cpp
+END
+ovkCVertexData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCVertexData.cpp
+END
+ovkCOgreVisualisation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreVisualisation.cpp
+END
+ovkCColorAnimator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCColorAnimator.cpp
+END
+ovkCBoxAlgorithmContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCBoxAlgorithmContext.h
+END
+ovkTMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkTMessage.h
+END
+ovkCOgreFrameListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreFrameListener.cpp
+END
+ovkCBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCBuffer.h
+END
+ovkCOgreScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCOgreScene.h
+END
+ovkCMessageWithData.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/player/ovkCMessageWithData.h
+END

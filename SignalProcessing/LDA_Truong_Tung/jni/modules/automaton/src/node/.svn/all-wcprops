@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/node
+END
+TNode.inl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/node/TNode.inl
+END
+CNodeRandomOrder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/node/CNodeRandomOrder.hpp
+END
+CNodeSwitch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/node/CNodeSwitch.cpp
+END
+CNodeAction.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/node/CNodeAction.hpp
+END
+CNodeSwitch.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/node/CNodeSwitch.hpp
+END
+CNodeLoop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/node/CNodeLoop.cpp
+END
+TNodeLoop.inl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/node/TNodeLoop.inl
+END
+CNodeRandomOrder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/node/CNodeRandomOrder.cpp
+END
+CNodeAction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/node/CNodeAction.cpp
+END
+CNodeLoop.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/src/node/CNodeLoop.hpp
+END

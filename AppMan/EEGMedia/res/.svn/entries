@@ -1,0 +1,70 @@
+10
+
+dir
+14
+https://eeg-lab411.googlecode.com/svn/trunk/AppMan/EEGMedia/res
+https://eeg-lab411.googlecode.com/svn
+
+
+
+2015-01-07T10:44:38.576936Z
+5
+kidogb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a8c0135a-2d87-dbe3-c5ec-258844517ed2
+
+drawable
+dir
+
+drawable-xxhdpi
+dir
+
+drawable-hdpi
+dir
+
+anim
+dir
+
+menu
+dir
+
+values-v11
+dir
+
+drawable-ldpi
+dir
+
+values-v14
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+values-sw720dp-land
+dir
+
+values
+dir
+
+values-sw600dp
+dir
+

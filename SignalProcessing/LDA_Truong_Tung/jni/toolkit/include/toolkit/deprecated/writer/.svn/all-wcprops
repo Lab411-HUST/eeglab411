@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/writer
+END
+ovtkIBoxAlgorithmSpectrumOutputWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/writer/ovtkIBoxAlgorithmSpectrumOutputWriter.h
+END
+ovtkIBoxAlgorithmExperimentInformationOutputWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/writer/ovtkIBoxAlgorithmExperimentInformationOutputWriter.h
+END
+ovtkIBoxAlgorithmStimulationOutputWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/writer/ovtkIBoxAlgorithmStimulationOutputWriter.h
+END
+ovtkIBoxAlgorithmStreamedMatrixOutputWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/writer/ovtkIBoxAlgorithmStreamedMatrixOutputWriter.h
+END
+ovtkIBoxAlgorithmSignalOutputWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/writer/ovtkIBoxAlgorithmSignalOutputWriter.h
+END
+ovtkIBoxAlgorithmFeatureVectorOutputWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/writer/ovtkIBoxAlgorithmFeatureVectorOutputWriter.h
+END
+ovtkIBoxAlgorithmEBMLOutputWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/deprecated/writer/ovtkIBoxAlgorithmEBMLOutputWriter.h
+END

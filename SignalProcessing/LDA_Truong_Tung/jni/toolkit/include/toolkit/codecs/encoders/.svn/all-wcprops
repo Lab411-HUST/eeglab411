@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/codecs/encoders
+END
+ovtkTStreamedMatrixEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/codecs/encoders/ovtkTStreamedMatrixEncoder.h
+END
+ovtkTChannelLocalisationEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/codecs/encoders/ovtkTChannelLocalisationEncoder.h
+END
+ovtkTSignalEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/codecs/encoders/ovtkTSignalEncoder.h
+END
+ovtkTFeatureVectorEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/codecs/encoders/ovtkTFeatureVectorEncoder.h
+END
+ovtkTEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/codecs/encoders/ovtkTEncoder.h
+END
+ovtkTSpectrumEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/codecs/encoders/ovtkTSpectrumEncoder.h
+END
+ovtkTStimulationStreamEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/codecs/encoders/ovtkTStimulationStreamEncoder.h
+END
+ovtkTExperimentInformationEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/include/toolkit/codecs/encoders/ovtkTExperimentInformationEncoder.h
+END

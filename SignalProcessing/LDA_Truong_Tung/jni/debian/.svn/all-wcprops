@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/debian
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/debian/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/debian/rules
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/debian/control
+END

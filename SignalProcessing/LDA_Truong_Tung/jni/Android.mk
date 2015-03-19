@@ -1,0 +1,14 @@
+LOCAL_PATH := $(call my-dir)
+include $(CLEAR_VARS)
+
+LOCAL_C_INCLUDES := $(LOCAL_PATH)
+OPENCV_LIB_TYPE:=STATIC
+OPENCV_INSTALL_MODULES:=on
+OPENCV_CAMERA_MODULES:=off
+include /home/truongnh/OpenCV-2.4.9-android-sdk/sdk/native/jni/OpenCV.mk
+
+
+LOCAL_MODULE    := LDA
+LOCAL_SRC_FILES := LDA.cpp
+
+include $(BUILD_SHARED_LIBRARY)

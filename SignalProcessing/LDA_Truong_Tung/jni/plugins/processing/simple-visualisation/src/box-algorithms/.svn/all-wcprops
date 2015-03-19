@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms
+END
+ovpCTopographicMap3DDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCTopographicMap3DDisplay.h
+END
+ovpCBoxAlgorithmClassifierAccuracyMeasure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCBoxAlgorithmClassifierAccuracyMeasure.cpp
+END
+ovpCSignalDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSignalDisplay.cpp
+END
+ovpCBoxAlgorithmP300SpellerVisualisation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCBoxAlgorithmP300SpellerVisualisation.cpp
+END
+ovpCTimeFrequencyMapDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCTimeFrequencyMapDisplay.cpp
+END
+ovpCPowerSpectrumDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCPowerSpectrumDisplay.cpp
+END
+ovpCDisplayCueImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCDisplayCueImage.cpp
+END
+ovpCSimple3DDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSimple3DDisplay.cpp
+END
+ovpCBoxAlgorithmClassifierAccuracyMeasure.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCBoxAlgorithmClassifierAccuracyMeasure.h
+END
+ovpCBoxAlgorithmP300MagicCardVisualisation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCBoxAlgorithmP300MagicCardVisualisation.cpp
+END
+ovpCSignalDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSignalDisplay.h
+END
+ovpCTimeFrequencyMapDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCTimeFrequencyMapDisplay.h
+END
+ovpCBoxAlgorithmP300SpellerVisualisation.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCBoxAlgorithmP300SpellerVisualisation.h
+END
+ovpCBoxAlgorithmLevelMeasure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCBoxAlgorithmLevelMeasure.cpp
+END
+ovpCBoxAlgorithmP300IdentifierCardVisualisation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCBoxAlgorithmP300IdentifierCardVisualisation.cpp
+END
+ovpCDisplayCueImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCDisplayCueImage.h
+END
+ovpCBoxAlgorithmMatrixDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCBoxAlgorithmMatrixDisplay.cpp
+END
+ovpCPowerSpectrumDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCPowerSpectrumDisplay.h
+END
+ovpCSimple3DDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCSimple3DDisplay.h
+END
+ovpCBoxAlgorithmP300MagicCardVisualisation.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCBoxAlgorithmP300MagicCardVisualisation.h
+END
+ovpCBoxAlgorithmLevelMeasure.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCBoxAlgorithmLevelMeasure.h
+END
+ovpCBoxAlgorithmMatrixDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCBoxAlgorithmMatrixDisplay.h
+END
+ovpCBoxAlgorithmP300IdentifierCardVisualisation.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCBoxAlgorithmP300IdentifierCardVisualisation.h
+END
+ovpCVoxelDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCVoxelDisplay.cpp
+END
+ovpCGrazVisualization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCGrazVisualization.cpp
+END
+ovpCVoxelDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCVoxelDisplay.h
+END
+ovpCTopographicMap2DDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCTopographicMap2DDisplay.cpp
+END
+ovpCTopographicMap3DDisplay.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCTopographicMap3DDisplay.cpp
+END
+ovpCGrazVisualization.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCGrazVisualization.h
+END
+ovpCTopographicMap2DDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/simple-visualisation/src/box-algorithms/ovpCTopographicMap2DDisplay.h
+END

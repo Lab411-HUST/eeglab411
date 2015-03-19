@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/configuration
+END
+ovkCConfigurationManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/configuration/ovkCConfigurationManager.cpp
+END
+ovkCConfigurationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/configuration/ovkCConfigurationManager.h
+END

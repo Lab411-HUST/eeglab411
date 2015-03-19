@@ -1,0 +1,551 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include
+END
+vrpn_Button.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Button.h
+END
+vrpn_ImmersionBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_ImmersionBox.h
+END
+vrpn_WiiMote.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_WiiMote.h
+END
+vrpn_GlobalHapticsOrb.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_GlobalHapticsOrb.h
+END
+vrpn_FileController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_FileController.h
+END
+vrpn_ConnectionTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_ConnectionTypes.h
+END
+vrpn_Tracker_MotionNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker_MotionNode.h
+END
+vrpn_Mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Mouse.h
+END
+vrpn_Analog_Radamec_SPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Analog_Radamec_SPI.h
+END
+vrpn_Event_Mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Event_Mouse.h
+END
+vrpn_HumanInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_HumanInterface.h
+END
+vrpn_Tracker_3DMouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker_3DMouse.h
+END
+vrpn_Wanda.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Wanda.h
+END
+vrpn_sgibox.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_sgibox.h
+END
+vrpn_Forwarder.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Forwarder.h
+END
+vrpn_FunctionGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_FunctionGenerator.h
+END
+vrpn_ADBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_ADBox.h
+END
+vrpn_DirectXRumblePad.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_DirectXRumblePad.h
+END
+vrpn_BaseClass.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_BaseClass.h
+END
+vrpn_Analog.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Analog.h
+END
+vrpn_Tracker_ButtonFly.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker_ButtonFly.h
+END
+vrpn_Atmel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Atmel.h
+END
+vrpn_Xkeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Xkeys.h
+END
+vrpn_inertiamouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_inertiamouse.h
+END
+vrpn_raw_sgibox.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_raw_sgibox.h
+END
+vrpn_CerealBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_CerealBox.h
+END
+vrpn_Tracker_Fastrak.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker_Fastrak.h
+END
+vrpn_XInputGamepad.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_XInputGamepad.h
+END
+vrpn_Imager_Stream_Buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Imager_Stream_Buffer.h
+END
+vrpn_Tracker_Crossbow.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker_Crossbow.h
+END
+vrpn_JoyFly.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_JoyFly.h
+END
+vrpn_Tracker_NDI_Polaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker_NDI_Polaris.h
+END
+vrpn_Magellan.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Magellan.h
+END
+vrpn_Configure.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Configure.h
+END
+vrpn_NationalInstruments.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_NationalInstruments.h
+END
+vrpn_Analog_Output.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Analog_Output.h
+END
+vrpn_Tracker_DTrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker_DTrack.h
+END
+vrpn_Joywin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Joywin32.h
+END
+vrpn_Tracker_Liberty.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker_Liberty.h
+END
+vrpn_3DConnexion.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_3DConnexion.h
+END
+vrpn_3DMicroscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_3DMicroscribe.h
+END
+vrpn_Dyna.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Dyna.h
+END
+vrpn_Nidaq.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Nidaq.h
+END
+vrpn_SharedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_SharedObject.h
+END
+vrpn_Keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Keyboard.h
+END
+vrpn_Event_Analog.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Event_Analog.h
+END
+quat.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/quat.h
+END
+vrpn_Flock_Parallel.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Flock_Parallel.h
+END
+vrpn_3Space.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_3Space.h
+END
+vrpn_Serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Serial.h
+END
+vrpn_Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Log.h
+END
+vrpn_Event.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Event.h
+END
+vrpn_Button_USB.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Button_USB.h
+END
+vrpn_Text.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Text.h
+END
+vrpn_Tracker_PhaseSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker_PhaseSpace.h
+END
+vrpn_Poser.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Poser.h
+END
+vrpn_LamportClock.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_LamportClock.h
+END
+vrpn_HashST.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_HashST.h
+END
+vrpn_Tracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker.h
+END
+vrpn_Freespace.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Freespace.h
+END
+vrpn_DirectXFFJoystick.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_DirectXFFJoystick.h
+END
+vrpn_Flock.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Flock.h
+END
+vrpn_RedundantTransmission.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_RedundantTransmission.h
+END
+vrpn_Connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Connection.h
+END
+vrpn_FileConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_FileConnection.h
+END
+vrpn_nikon_controls.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_nikon_controls.h
+END
+vrpn_Mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Mutex.h
+END
+vrpn_5DT16.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_5DT16.h
+END
+vrpn_Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Types.h
+END
+vrpn_Imager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Imager.h
+END
+vrpn_Joylin.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Joylin.h
+END
+vrpn_ForceDeviceServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_ForceDeviceServer.h
+END
+vrpn_VPJoystick.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_VPJoystick.h
+END
+vrpn_Shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Shared.h
+END
+vrpn_Poser_Analog.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Poser_Analog.h
+END
+vrpn_Tng3.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tng3.h
+END
+vrpn_Poser_Tek4662.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Poser_Tek4662.h
+END
+vrpn_Analog_5dt.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Analog_5dt.h
+END
+vrpn_ForceDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_ForceDevice.h
+END
+vrpn_Spaceball.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Spaceball.h
+END
+vrpn_Tracker_Isotrak.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker_Isotrak.h
+END
+vrpn_Tracker_AnalogFly.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker_AnalogFly.h
+END
+vrpn_Sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Sound.h
+END
+vrpn_Analog_USDigital_A2.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Analog_USDigital_A2.h
+END
+vrpn_ForwarderController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_ForwarderController.h
+END
+vrpn_Tracker_isense.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Tracker_isense.h
+END
+vrpn_Button_NI_DIO24.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Button_NI_DIO24.h
+END
+vrpn_Zaber.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Zaber.h
+END
+vrpn_UNC_Joystick.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_UNC_Joystick.h
+END
+vrpn_Auxiliary_Logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Auxiliary_Logger.h
+END
+vrpn_Dial.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/include/vrpn_Dial.h
+END

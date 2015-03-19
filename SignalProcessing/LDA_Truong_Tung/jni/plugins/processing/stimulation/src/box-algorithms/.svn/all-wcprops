@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms
+END
+ovpCBoxAlgorithmP300SpellerStimulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmP300SpellerStimulator.h
+END
+ovpCBoxAlgorithmStimulationMultiplexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmStimulationMultiplexer.cpp
+END
+ovpCBoxAlgorithmRunCommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmRunCommand.cpp
+END
+ovpCKeyboardStimulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCKeyboardStimulator.cpp
+END
+ovpCBoxAlgorithmOpenALSoundPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmOpenALSoundPlayer.cpp
+END
+ovpCBoxAlgorithmPlayerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmPlayerController.h
+END
+ovpCBoxAlgorithmLuaStimulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmLuaStimulator.cpp
+END
+ovpCBoxAlgorithmStimulationMultiplexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmStimulationMultiplexer.h
+END
+ovpCBoxAlgorithmRunCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmRunCommand.h
+END
+ovpCBoxAlgorithmOpenALSoundPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmOpenALSoundPlayer.h
+END
+ovpCBoxAlgorithmP300IdentifierStimulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmP300IdentifierStimulator.cpp
+END
+ovpCKeyboardStimulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCKeyboardStimulator.h
+END
+ovpCBoxAlgorithmLuaStimulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmLuaStimulator.h
+END
+ovpCXMLStimulationScenarioPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCXMLStimulationScenarioPlayer.cpp
+END
+ovpCBoxAlgorithmP300IdentifierStimulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmP300IdentifierStimulator.h
+END
+ovpCXMLStimulationScenarioPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCXMLStimulationScenarioPlayer.h
+END
+ovpCSignChangeDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCSignChangeDetector.cpp
+END
+ovpCSignChangeDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCSignChangeDetector.h
+END
+ovpCBoxAlgorithmTimeout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmTimeout.cpp
+END
+ovpCBoxAlgorithmStimulationVoter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmStimulationVoter.cpp
+END
+ovpCBoxAlgorithmTimeout.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmTimeout.h
+END
+ovpCBoxAlgorithmStimulationVoter.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmStimulationVoter.h
+END
+ovpCBoxAlgorithmP300SpellerStimulator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmP300SpellerStimulator.cpp
+END
+ovpCBoxAlgorithmPlayerController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/stimulation/src/box-algorithms/ovpCBoxAlgorithmPlayerController.cpp
+END

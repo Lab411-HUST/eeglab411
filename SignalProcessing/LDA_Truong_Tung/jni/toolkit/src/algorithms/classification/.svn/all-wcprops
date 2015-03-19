@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/algorithms/classification
+END
+ovtkCAlgorithmClassifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/algorithms/classification/ovtkCAlgorithmClassifier.cpp
+END
+ovtkCFeatureVectorSet.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/algorithms/classification/ovtkCFeatureVectorSet.hpp
+END
+ovtkCAlgorithmClassifierTrainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/algorithms/classification/ovtkCAlgorithmClassifierTrainer.cpp
+END
+ovtkCFeatureVector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/algorithms/classification/ovtkCFeatureVector.hpp
+END
+ovtkCVector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/algorithms/classification/ovtkCVector.hpp
+END
+ovtkCFeatureVectorSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/toolkit/src/algorithms/classification/ovtkCFeatureVectorSet.cpp
+END

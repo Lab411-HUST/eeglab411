@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/trunk/SignalProcessing/RemoveEyeblink
+END
+build
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/build
+END
+remove_eyeblink.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/SignalProcessing/RemoveEyeblink/remove_eyeblink.c
+END
+fastICA.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/fastICA.h
+END
+wavelet_daub4.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/wavelet_daub4.c
+END
+edf2ascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/edf2ascii.c
+END
+wavelet_daub4.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/wavelet_daub4.h
+END
+svdcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/svdcmp.c
+END
+edf2ascii.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/edf2ascii.h
+END
+LOG
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/LOG
+END
+svdcmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/svdcmp.h
+END
+matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/matrix.c
+END
+eegdata_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/eegdata_conf.h
+END
+DataICA
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/DataICA
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/11/trunk/SignalProcessing/RemoveEyeblink/matrix.h
+END
+fastICA.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/SignalProcessing/RemoveEyeblink/fastICA.c
+END
+Readme.md
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/SignalProcessing/RemoveEyeblink/Readme.md
+END

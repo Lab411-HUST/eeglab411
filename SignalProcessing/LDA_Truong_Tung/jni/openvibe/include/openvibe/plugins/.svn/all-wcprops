@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins
+END
+ovIServerExtensionDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins/ovIServerExtensionDesc.h
+END
+ovIServerExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins/ovIServerExtension.h
+END
+ovIScenarioImporterDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins/ovIScenarioImporterDesc.h
+END
+ovIPluginObjectDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins/ovIPluginObjectDesc.h
+END
+ovIAlgorithmDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins/ovIAlgorithmDesc.h
+END
+ovIScenarioImporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins/ovIScenarioImporter.h
+END
+ovIPluginObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins/ovIPluginObject.h
+END
+ovIAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins/ovIAlgorithm.h
+END
+ovIScenarioExporterDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins/ovIScenarioExporterDesc.h
+END
+ovIScenarioExporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins/ovIScenarioExporter.h
+END
+ovIBoxAlgorithmDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins/ovIBoxAlgorithmDesc.h
+END
+ovIBoxAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/include/openvibe/plugins/ovIBoxAlgorithm.h
+END

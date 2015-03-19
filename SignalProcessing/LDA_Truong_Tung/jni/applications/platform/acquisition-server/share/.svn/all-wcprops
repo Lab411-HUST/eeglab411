@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share
+END
+interface-Generic-RawTelnetReader.ui
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-Generic-RawTelnetReader.ui
+END
+interface.ui
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface.ui
+END
+vamp.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/vamp.bmp
+END
+interface-BrainProducts-ActiCHamp.ui
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-BrainProducts-ActiCHamp.ui
+END
+interface-egi-ampserver.ui
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-egi-ampserver.ui
+END
+capset-brainproducts-acticap32.txt
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/capset-brainproducts-acticap32.txt
+END
+ov-channel-rename-easycap-64ch.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/ov-channel-rename-easycap-64ch.cfg
+END
+interface-channel-names.ui
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-channel-names.ui
+END
+electrode-names.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/electrode-names.txt
+END
+interface-Brainmaster-Discovery.ui
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-Brainmaster-Discovery.ui
+END
+interface-BrainProducts-VAmp.ui
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-BrainProducts-VAmp.ui
+END
+interface-Neurosky-Mindset.ui
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-Neurosky-Mindset.ui
+END
+interface-BrainProducts-BrainampSeries.ui
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-BrainProducts-BrainampSeries.ui
+END
+interface-Generic-Oscillator.ui
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-Generic-Oscillator.ui
+END
+interface-Generic-RawFileReader.ui
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-Generic-RawFileReader.ui
+END
+interface-Emotiv-EPOC.ui
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-Emotiv-EPOC.ui
+END
+interface-Micromed-SystemPlusEvolution.ui
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-Micromed-SystemPlusEvolution.ui
+END
+easycap-64ch-electrode-names-10-20.txt
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/easycap-64ch-electrode-names-10-20.txt
+END
+interface-MindMedia-NeXus32B.ui
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-MindMedia-NeXus32B.ui
+END
+interface-TMSI-Refa32B.ui
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/share/interface-TMSI-Refa32B.ui
+END

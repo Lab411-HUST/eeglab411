@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/matlab/src/box-algorithms
+END
+ovpCBoxAlgorithmMatlabFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/matlab/src/box-algorithms/ovpCBoxAlgorithmMatlabFilter.h
+END
+ovpCBoxAlgorithmMatlabScripting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/matlab/src/box-algorithms/ovpCBoxAlgorithmMatlabScripting.cpp
+END
+ovpCBoxAlgorithmMatlabFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/matlab/src/box-algorithms/ovpCBoxAlgorithmMatlabFilter.cpp
+END
+ovpCBoxAlgorithmMatlabScripting.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/plugins/processing/matlab/src/box-algorithms/ovpCBoxAlgorithmMatlabScripting.h
+END

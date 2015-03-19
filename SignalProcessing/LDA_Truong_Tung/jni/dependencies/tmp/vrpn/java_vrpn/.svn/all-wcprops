@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn
+END
+vrpn_AuxiliaryLoggerRemote.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/vrpn_AuxiliaryLoggerRemote.cpp
+END
+vrpn_TextSender.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/vrpn_TextSender.cpp
+END
+java_vrpn.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/java_vrpn.dsp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/README.txt
+END
+java_vrpn.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/java_vrpn.h
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/.cvsignore
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/makefile
+END
+vrpn_ButtonRemote.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/vrpn_ButtonRemote.cpp
+END
+vrpn_ForceDeviceRemote.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/vrpn_ForceDeviceRemote.cpp
+END
+java_vrpn.sln
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/java_vrpn.sln
+END
+java_vrpn.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/java_vrpn.dsw
+END
+vrpn_AnalogOutputRemote.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/vrpn_AnalogOutputRemote.cpp
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/.project
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/ChangeLog
+END
+java_vrpn.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/java_vrpn.vcproj
+END
+vrpn_PoserRemote.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/vrpn_PoserRemote.cpp
+END
+buildJAR.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/buildJAR.xml
+END
+vrpn_VRPNDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/vrpn_VRPNDevice.cpp
+END
+vrpn_TrackerRemote.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/vrpn_TrackerRemote.cpp
+END
+vrpn_FunctionGeneratorRemote.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/vrpn_FunctionGeneratorRemote.cpp
+END
+make_header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/make_header.sh
+END
+vrpn_TextReceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/vrpn_TextReceiver.cpp
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/.classpath
+END
+buildNativeHeaders.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/buildNativeHeaders.xml
+END
+vrpn_AnalogRemote.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/vrpn_AnalogRemote.cpp
+END
+vrpn_TempImagerRemote.cpp.obsolete
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/vrpn_TempImagerRemote.cpp.obsolete
+END
+java_vrpn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/java_vrpn/java_vrpn.cpp
+END

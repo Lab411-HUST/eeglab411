@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/voice
+END
+ServiceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/voice/ServiceHelper.java
+END
+VoiceRecognitionTriggerV11.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/voice/VoiceRecognitionTriggerV11.java
+END
+Trigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/voice/Trigger.java
+END
+VoiceInputNotInstalledActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/voice/VoiceInputNotInstalledActivity.java
+END
+VoiceInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/voice/VoiceInput.java
+END
+VoiceRecognitionTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/voice/VoiceRecognitionTrigger.java
+END
+ActivityHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/voice/ActivityHelper.java
+END
+ServiceBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/voice/ServiceBridge.java
+END
+ImeTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/voice/ImeTrigger.java
+END
+IntentApiTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/voice/IntentApiTrigger.java
+END

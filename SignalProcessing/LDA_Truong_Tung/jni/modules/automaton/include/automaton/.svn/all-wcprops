@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/include/automaton
+END
+IXMLNodeReaderFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/include/automaton/IXMLNodeReaderFactory.h
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/include/automaton/defines.h
+END
+INode.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/include/automaton/INode.h
+END
+IXMLNodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/include/automaton/IXMLNodeReader.h
+END
+IAutomatonController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/include/automaton/IAutomatonController.h
+END
+IXMLAutomatonReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/include/automaton/IXMLAutomatonReader.h
+END
+IAutomatonContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/include/automaton/IAutomatonContext.h
+END
+CIdentifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/include/automaton/CIdentifier.h
+END
+INodeFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/automaton/include/automaton/INodeFactory.h
+END

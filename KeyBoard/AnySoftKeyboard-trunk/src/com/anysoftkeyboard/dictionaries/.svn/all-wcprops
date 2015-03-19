@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries
+END
+DictionaryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/DictionaryFactory.java
+END
+AutoDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/AutoDictionary.java
+END
+EditableDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/EditableDictionary.java
+END
+UserDictionaryBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/UserDictionaryBase.java
+END
+ExternalDictionaryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/ExternalDictionaryFactory.java
+END
+SafeUserDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/SafeUserDictionary.java
+END
+ContactsDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/ContactsDictionary.java
+END
+DictionaryAddOnAndBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/DictionaryAddOnAndBuilder.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/Dictionary.java
+END
+AndroidUserDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/AndroidUserDictionary.java
+END
+DictionarySQLiteConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/DictionarySQLiteConnection.java
+END
+TextEntryState.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/TextEntryState.java
+END
+BinaryDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/BinaryDictionary.java
+END
+DictionaryFactoryAPI5.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/DictionaryFactoryAPI5.java
+END
+AutoText.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/AutoText.java
+END
+SQLiteUserDictionaryBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/SQLiteUserDictionaryBase.java
+END
+Suggest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/Suggest.java
+END
+ResourceBinaryDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/ResourceBinaryDictionary.java
+END
+FallbackUserDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboard-trunk/src/com/anysoftkeyboard/dictionaries/FallbackUserDictionary.java
+END

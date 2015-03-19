@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/res/values
+END
+keyboard_layout_api.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/res/values/keyboard_layout_api.xml
+END
+functional_key_codes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/res/values/functional_key_codes.xml
+END
+keyboard_modes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/res/values/keyboard_modes.xml
+END
+strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/res/values/strings.xml
+END
+theme_style_api.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/res/values/theme_style_api.xml
+END
+attrs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/res/values/attrs.xml
+END
+extension_keyboard_types.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/res/values/extension_keyboard_types.xml
+END
+key_heights.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/res/values/key_heights.xml
+END

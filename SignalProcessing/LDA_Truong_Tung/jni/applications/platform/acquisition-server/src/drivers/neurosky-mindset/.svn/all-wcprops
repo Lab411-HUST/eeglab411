@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/neurosky-mindset
+END
+ovasCDriverNeuroskyMindset.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/neurosky-mindset/ovasCDriverNeuroskyMindset.h
+END
+ovasCConfigurationNeuroskyMindset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/neurosky-mindset/ovasCConfigurationNeuroskyMindset.cpp
+END
+ovasCDriverNeuroskyMindset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/neurosky-mindset/ovasCDriverNeuroskyMindset.cpp
+END
+ovasCConfigurationNeuroskyMindset.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/applications/platform/acquisition-server/src/drivers/neurosky-mindset/ovasCConfigurationNeuroskyMindset.h
+END

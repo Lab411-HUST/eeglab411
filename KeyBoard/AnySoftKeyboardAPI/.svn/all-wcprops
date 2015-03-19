@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/README.md
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/proguard.cfg
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/.project
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/.gitignore
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/AndroidManifest.xml
+END
+AnySoftKeyboard-API.iml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/KeyBoard/AnySoftKeyboardAPI/AnySoftKeyboard-API.iml
+END

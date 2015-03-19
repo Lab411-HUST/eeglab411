@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/src
+END
+ov_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/src/ov_main.cpp
+END
+ovCIdentifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/src/ovCIdentifier.cpp
+END
+ovCMemoryBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/src/ovCMemoryBuffer.cpp
+END
+ovCMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/src/ovCMatrix.cpp
+END
+ovCStimulationSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/src/ovCStimulationSet.cpp
+END
+ovCNameValuePairList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/src/ovCNameValuePairList.cpp
+END
+ovCString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/src/ovCString.cpp
+END
+ovCKernelLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/openvibe/src/ovCKernelLoader.cpp
+END

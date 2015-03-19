@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/visualisation
+END
+ovkCVisualisationWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/visualisation/ovkCVisualisationWidget.h
+END
+ovkCVisualisationContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/visualisation/ovkCVisualisationContext.h
+END
+ovkCVisualisationManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/visualisation/ovkCVisualisationManager.cpp
+END
+ovkCVisualisationTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/visualisation/ovkCVisualisationTree.cpp
+END
+ovkCVisualisationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/visualisation/ovkCVisualisationManager.h
+END
+ovkCVisualisationWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/visualisation/ovkCVisualisationWidget.cpp
+END
+ovkCVisualisationContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/visualisation/ovkCVisualisationContext.cpp
+END
+ovkCVisualisationTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/kernel/src/kernel/visualisation/ovkCVisualisationTree.h
+END

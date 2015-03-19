@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/xml/test
+END
+test_xml_write.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/xml/test/test_xml_write.cpp
+END
+test_xml_read.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/xml/test/test_xml_read.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/modules/xml/test/CMakeLists.txt
+END

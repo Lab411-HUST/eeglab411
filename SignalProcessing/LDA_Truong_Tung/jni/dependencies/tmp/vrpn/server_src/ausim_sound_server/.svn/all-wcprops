@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/ausim_sound_server
+END
+ausim_sound_server.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/ausim_sound_server/ausim_sound_server.dsp
+END
+vrpn_Sound_ASM.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/ausim_sound_server/vrpn_Sound_ASM.h
+END
+vrpn.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/ausim_sound_server/vrpn.cfg
+END
+ausim_sound_server.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/ausim_sound_server/ausim_sound_server.dsw
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/ausim_sound_server/README.txt
+END
+vrpn_Sound_ASM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/124/EEG-PROJECT-1302/P300Waveform/jni/dependencies/tmp/vrpn/server_src/ausim_sound_server/vrpn_Sound_ASM.cpp
+END
