@@ -1,7 +1,6 @@
 ## ![EEG.jpeg](https://lh6.googleusercontent.com/-CYOaDmtuBNU/VQub3oZ0O-I/AAAAAAAADbg/bHEpUwpr-f4/s88/EEG.jpeg) EEG Embedded Networking Laboratory
 Originally developed at Hanoi University of Science and Technology for collecting and analyzing signals from Emotiv EPOC headset.
 
-# eeglab411
 
 # Developer team
 * Nguyen Hai Truong, SET HUST
