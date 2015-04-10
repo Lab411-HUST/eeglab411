@@ -10,15 +10,15 @@
 		android:anyDensity="true" />
           <!-- http://d.android.com/guide/practices/screens_support.html read about legacy. -->
     
-    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="15"></uses-sdk>
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="19"></uses-sdk>
       <uses-permission 
         android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <uses-permission android:name="com.android.browser.permission.READ_HISTORY_BOOKMARKS"/>
     
-    <!-- tra sua --> 
+
      <uses-permission 
         android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
-     <!-- tra sua -->
+  
     <uses-permission android:name="android.permission.VIBRATE" />
 	<!-- required for the user dictionary (long press a word in the suggestions bar) -->
     <uses-permission android:name="android.permission.READ_USER_DICTIONARY" />
@@ -38,11 +38,11 @@
 		<!-- used to backup the settings and SQL to the cloud -->
 		<meta-data android:name="com.google.android.backup.api_key"
 			android:value="AEdPqrEAAAAILlrSpiqigog3iJt3BwYxzNXMUzqgGV_dJ1EPDQ" />
-		<!--  tra sua cho nay-->
+		
 		<service android:name="com.anysoftkeyboard.UrlService"></service>
 		<service android:name="com.anysoftkeyboard.Contract_Service"></service>
 		
-		<!--tra sua cho nay  -->
+		
 		<!-- this is the IME with the pointer to the settings ui (xml/method) -->
 		<service android:permission="android.permission.BIND_INPUT_METHOD" android:name=".SoftKeyboard">
 	        <intent-filter>
@@ -106,7 +106,7 @@
 	    <activity android:name="com.anysoftkeyboard.ui.MainForm"
                   android:label="@string/ime_name">
         </activity>
-        <!-- tra sua cho nay -->
+       
         <activity android:name="com.anysoftkeyboard.giang" 
             android:label="activiti1"
             ></activity>
@@ -122,6 +122,6 @@
 	        android:windowSoftInputMode="stateAlwaysHidden"
 	        android:finishOnTaskLaunch="true"
 	        android:configChanges="keyboard|keyboardHidden|navigation|orientation"/>
-	    
+        
 	</application>
 </manifest>

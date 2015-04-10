@@ -16,19 +16,11 @@
 
 package com.anysoftkeyboard;
 
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
-import java.util.Timer;
-import java.util.TimerTask;
 
 import android.app.AlertDialog;
 import android.content.BroadcastReceiver;
@@ -42,20 +34,11 @@ import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
 import android.content.res.Configuration;
 import android.content.res.TypedArray;
 import android.graphics.Bitmap;
-import android.graphics.Canvas;
-import android.graphics.Color;
-import android.graphics.ColorFilter;
-import android.graphics.Paint;
-import android.graphics.PixelFormat;
-import android.graphics.Rect;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.inputmethodservice.InputMethodService;
-import android.inputmethodservice.Keyboard;
-import android.inputmethodservice.KeyboardView;
 import android.media.AudioManager;
 import android.net.Uri;
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Debug;
 import android.os.Handler;
@@ -67,13 +50,9 @@ import android.preference.PreferenceManager;
 import android.text.TextUtils;
 import android.util.Log;
 import android.util.TypedValue;
-import android.view.Gravity;
 import android.view.KeyEvent;
-import android.view.MotionEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.view.View.OnTouchListener;
-import android.view.WindowManager.LayoutParams;
 import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
@@ -86,21 +65,12 @@ import android.view.inputmethod.ExtractedText;
 import android.view.inputmethod.ExtractedTextRequest;
 import android.view.inputmethod.InputConnection;
 import android.view.inputmethod.InputMethodManager;
-import android.webkit.WebView.FindListener;
-import android.widget.AdapterView;
-import android.widget.Button;
-import android.widget.EditText;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.ListView;
-import android.widget.RelativeLayout;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
-import android.widget.AdapterView.OnItemClickListener;
 
 import com.anysoftkeyboard.api.KeyCodes;
-import com.anysoftkeyboard.api.R.drawable;
 import com.anysoftkeyboard.devicespecific.Clipboard;
 import com.anysoftkeyboard.dictionaries.AutoDictionary;
 import com.anysoftkeyboard.dictionaries.DictionaryAddOnAndBuilder;
@@ -186,12 +156,13 @@ public class AnySoftKeyboard extends InputMethodService implements
 
 	// private StringBuilder mComposing = new StringBuilder();
 	private WordComposer mWord = new WordComposer();
-	private WordComposer text = new WordComposer();
+	//private WordComposer text = new WordComposer();
 
 	private int mOrientation = Configuration.ORIENTATION_PORTRAIT;
 
 	private int mCommittedLength;
 	private boolean Check_URL = false;
+
 	/*
 	 * Do we do prediction now
 	 */
@@ -248,71 +219,19 @@ public class AnySoftKeyboard extends InputMethodService implements
 
 	private boolean mKeyboardInCondensedMode = false;
 
-	// tra t
-
+	// 
 	private boolean mCheckStateContractService = false;
 	public static boolean mCheckStateWedService = false;
 	private Intent mWebService, mContractService;
-	private Key teskey;
-	public static int index = 0, count = 4, dem = 0, thread_count = 0;
-	
-	static int k=0;
-	private String label = "";
-	private Drawable icon1 = null, icon2 = null, cam = null;
-	public static Boolean check_blink = false;
-	Thread th, blink1;
-	// process blink
-	private Timer blinkTimer;
-	private TimerTask blinkTask;
-	//
-	public ProcessKeyColor pro;
-	private String[] charact = new String[] { "q", "w", "e", "r", "t", "y",
-			"u", "i", "p", "a", "s", "d", "f", "g", "h,", "j", "k", "l", "z",
-			"x", "c", "v", "b", "n", "m", "o", "1" };
-	private int[] keycode = { 113, 119, 101, 114, 116, 121, 117, 105, 112, 97,
-			115, 100, 102, 103, 104, 106, 107, 108, 122, 120, 99, 118, 98, 110,
-			109, 111, -5 };
-
-	// sua ly chon ky tu cua tra
-	private int row = 0;
-	private int column = 4, column1 = 4;
-	// *tra*
-	/*
-	 * color of key
-	 */
-	/* Huy */
+	public static boolean check_down = false;
+		
 	List<CharSequence> stringList;
-	/* TaDuc */
+	
+	private int[] codes = { 113, 119, 101, 114, 116, 121, 117, 105, 112, 10,
+	97, 115, 100,102, 103, 104, 106, 107, 108, 32, 122, 120, 99,118, 98, 110,
+	109, 111, -5, -193 };
 
-	// Tien
-	private String[] characters = new String[] { "q", "w", "e",
-			"r", "t", "y", 
-			"u","i", "p", "E",
-			
-			"a", "s", "d",
-			"f", "g", "h",
-			"j", "k", "l","B",
-			
-			"z", "x", "c", 
-			"v", "b", "n", 
-			"m", "o", "C",
-			"SW"
-			};
-	private int[] codes = { 113, 119, 101, 
-			114,116, 121,
-			117, 105, 112,10,
-			
-			97, 115, 100,
-
-			102, 103, 104,
-			106,107,108,32,
-			122, 120, 99,
-			
-			118, 98, 110, 
-			
-			109, 110, -5, 
-			-193};
-
+	//Variable to choose character
 	int level = 0;
 	int group = 0;
 	int subgroup = 0;
@@ -320,10 +239,18 @@ public class AnySoftKeyboard extends InputMethodService implements
 	int character = 0;
 	Key keyblink = null;
 
-	//boolean flag:false (Any), true (CoAdapt)
+	private String[] characters = new String[] { "q", "w", "e", "r", "t", "y",
+			"u", "i", "p", "E",
+
+			"a", "s", "d", "f", "g", "h", "j", "k", "l", "ٮ",
+
+			"z", "x", "c", "v", "b", "n", "m", "o", "✘", "SW" };
+	String space = "";
+	// boolean flag:false (Any), true (CoAdapt)
 	boolean flag = false;
+	boolean enable = false;
 	public static final String NEW_APP = "com.htd.hust.coadapt300";
-	
+	//
 	Handler mHandler = new Handler() {
 		@Override
 		public void handleMessage(Message msg) {
@@ -390,7 +317,37 @@ public class AnySoftKeyboard extends InputMethodService implements
 
 		@Override
 		public void onReceive(Context context, Intent intent) {
+			if(intent.getAction().equals("eeg.lab411.selectModel")) {
+				
+				if(level==0 ) {
+					enable=true;
+					subgroup = 0;
+					group = 0;
+					part = 0;
+					level = 0;
+					Toast.makeText(getApplicationContext(), "join", 0).show();
+					ResetKey();
+				}
+			}
+			
+			if(intent.getAction().equals("lab411.eeg.Dictionary")){
+					
+				int chiso=intent.getExtras().getInt("data");
+					if (stringList != null) {
+						int keyCode=32;
+							if (chiso < stringList.size()) {
+								
+								
+								pickSuggestionManually(chiso,
+										stringList.get(chiso));
+								onKey((int) keyCode, null, -1,
+										new int[] { (int) keyCode }, true);
+								
+							}
+						}
+					
 
+			}
 			if (intent.getAction().equals("lab411.eeg.bindkey")) {
 				Bundle bundle = intent.getExtras();
 				if (bundle != null) {
@@ -402,384 +359,242 @@ public class AnySoftKeyboard extends InputMethodService implements
 							// onPress((int) keyCode);
 							onKey((int) keyCode, null, -1,
 									new int[] { (int) keyCode }, true);
-							// tra sua cho nay
+							
 
 						}
 					});
 
 				}
 			}
-			if (intent.getAction().equals("select")) {
-				final int keyCode = keycode[count];
-				mHandler.post(new Runnable() {
-
-					public void run() {
-						// onPress((int) keyCode);
-						onKey((int) keyCode, null, -1,
-								new int[] { (int) keyCode }, true);
-						// tra sua cho nay
-
-					}
-				});
-
-			}
-
+			
+           
 			if (intent.getAction().equals("EEGKeyCodeReceived")) {
 
 				Bundle bundle = intent.getExtras();
 				int key = bundle.getInt("key");
 				Log.e("Info1", group + "\t" + subgroup + "\t" + part + "\t"
 						+ level + "\n");
-
-				switch (key) {
-				case 1:// Gaze Left
-					if (level == 0) {
-						group = 1;
-						subgroup = 0;
-						part = 0;
-						level = 1;
-						/*
-						keyblink = getCurrentKeyboard().getKeys().get(0);
-						Drawable d = getResources().getDrawable(R.drawable.mod);
-						Bitmap b = ((BitmapDrawable) d).getBitmap();
-						Bitmap bitmapResized = Bitmap.createScaledBitmap(b,
-								keyblink.width, keyblink.height, false);
-						BitmapDrawable cam = new BitmapDrawable(getResources(), bitmapResized);
-						teskey.icon = cam;
-							*/
-						
-					} else if ((level == 1)) {
-						subgroup = 1;
-						part = 0;
-						level = 2;
-					} else if ((level == 2)) {
-						part = 1;
-						character = (subgroup - 1) * 10 + (group - 1) * 3 + part
-								- 1;
-						onKey((int) codes[character], null, -1,
-								new int[] { (int) codes[character] }, true);
-
-						subgroup = 0;
-						group = 0;
-						part = 0;
-						level = 0;
-						ResetKey();
-					}
-					break;
-				case 2:// Gaze Right
-					if (level == 0) {
-						group = 3;
-						subgroup = 0;
-						part = 0;
-						level = 1;
-					} else if ((level == 1)) {
-						subgroup = 3;
-						part = 0;
-						level = 2;
-					} else if ((level == 2)) {
-						part = 3;
-						character = (subgroup - 1) * 10 + (group - 1) * 3 + part
-								- 1;
-						onKey((int) codes[character], null, -1,
-								new int[] { (int) codes[character] }, true);
-
-						subgroup = 0;
-						group = 0;
-						part = 0;
-						level = 0;
-						ResetKey();
-					}
-					break;
-
-				case 3:// Blink
-					if (level == 0) {
-						group = 2;
-						subgroup = 0;
-						part = 0;
-						level = 1;
-					} else if ((level == 1)) {
-						subgroup = 2;
-						part = 0;
-						level = 2;
-					} else if ((level == 2)) {
-
-						part = 2;
-						character = (subgroup - 1) * 10 + (group - 1) * 3 + part
-								-1;
-						onKey((int) codes[character], null, -1,
-								new int[] { (int) codes[character] }, true);
-
-						subgroup = 0;
-						group = 0;
-						part = 0;
-						level = 0;
-						ResetKey();
-					}
-
-					break;
-				case 4:// Gaze Down
-					if (level == 0)
-					onKey((int)codes[30],null	 , -1, new int[]{(int) codes[30]}, true);
-					//Toast.makeText(getApplicationContext(), "Gaze Down", Toast.LENGTH_SHORT).show();
-					break;
-				case 5: // Gaze Up
-					break;
-					
+			
 				
+				if (!enable) {
+					switch (key) {
+					case 1:// Gaze Left
+						if (level == 0) {
+							check_down = false;
+							group = 1;
+							subgroup = 0;
+							part = 0;
+							level = 1;
+							
+
+						} else if ((level == 1)) {
+
+							if (check_down) {
+								part = 1;
+								level = 2;
+								character = 9;
+								onKey((int) codes[character], null, -1,
+										new int[] { (int) codes[character] },
+										true);
+								subgroup = 0;
+								group = 0;
+								part = 0;
+								level = 0;
+								ResetKey();
+							} else {
+								subgroup = 1;
+								part = 0;
+								level = 2;
+							}
+						} else if ((level == 2)) {
+							if (!check_down) {
+								part = 1;
+								character = (subgroup - 1) * 10 + (group - 1)
+										* 3 + part - 1;
+								onKey((int) codes[character], null, -1,
+										new int[] { (int) codes[character] },
+										true);
+
+								subgroup = 0;
+								group = 0;
+								part = 0;
+								level = 0;
+								ResetKey();
+							}
+						}
+						break;
+					case 2:// Gaze Right
+						if (level == 0) {
+							check_down = false;
+							group = 3;
+							subgroup = 0;
+							part = 0;
+							level = 1;
+						} else if ((level == 1)) {
+							if (check_down) {
+								part = 3;
+								level = 2;
+								character = 29;
+								onKey((int) codes[character], null, -1,
+										new int[] { (int) codes[character] },
+										true);
+								subgroup = 0;
+								group = 0;
+								part = 0;
+								level = 0;
+								ResetKey();
+							} else {
+								subgroup = 3;
+								part = 0;
+								level = 2;
+							}
+						} else if ((level == 2)) {
+							if (!check_down) {
+								part = 3;
+								character = (subgroup - 1) * 10 + (group - 1)
+										* 3 + part - 1;
+								onKey((int) codes[character], null, -1,
+										new int[] { (int) codes[character] },
+										true);
+
+								subgroup = 0;
+								group = 0;
+								part = 0;
+								level = 0;
+								ResetKey();
+							}
+						}
+						break;
+
+					case 3:// Blink
+						if (level == 0) {
+							check_down = false;
+							group = 2;
+							subgroup = 0;
+							part = 0;
+							level = 1;
+						} else if ((level == 1)) {
+							if (check_down) {
+								part = 2;
+								level = 2;
+								character = 19;
+								onKey((int) codes[character], null, -1,
+										new int[] { (int) codes[character] },
+										true);
+								subgroup = 0;
+								group = 0;
+								part = 0;
+								level = 0;
+								ResetKey();
+							} else {
+								subgroup = 2;
+								part = 0;
+								level = 2;
+							}
+						} else if ((level == 2)) {
+							if (!check_down) {
+								part = 2;
+								character = (subgroup - 1) * 10 + (group - 1)
+										* 3 + part - 1;
+								onKey((int) codes[character], null, -1,
+										new int[] { (int) codes[character] },
+										true);
+								Log.e("Pl", character + "");
+								subgroup = 0;
+								group = 0;
+								part = 0;
+								level = 0;
+								ResetKey();
+							}
+						}
+
+						break;
+					case 4:// Gaze Down
+							// if (level == 0)
+							// onKey((int) codes[30], null, -1,
+							// new int[] { (int) codes[30] }, true);
+						if (level == 0 ) {
+							
+								check_down = true;
+								group = 4;
+								subgroup = 0;
+								part = 0;
+								level = 1;
+							
+
+						} else if (level == 1 ) {
+							//each result to call this mode
+							if(group!=4){
+								enable=true;
+								subgroup = 0;
+								group = 0;
+								part = 0;
+								level = 0;
+								Intent gaze=new Intent("lab411.eeg.gaze");
+								gaze.putExtra("data", 4);
+								sendBroadcast(gaze);
+								ResetKey();
+							}else {
+								
+								check_down=false;
+								subgroup = 0;
+								group = 0;
+								part = 0;
+								level = 0;
+								ResetKey();
+							}
+						}
+						if(level==2) {
+							check_down=false;
+							subgroup = 0;
+							group = 0;
+							part = 0;
+							level = 0;
+							ResetKey();	
+						}
+						break;
+					case 5: 
+						break;
+
+					}
+				} else {
+					Intent in=new Intent("lab411.eeg.gaze");
+					switch (key) {
+					case 4:		//down link
+						in.putExtra("data", 4);
+						sendBroadcast(in);
+						break;
+					case 3:		//Blink to select enter
+						in.putExtra("data", 3);
+						sendBroadcast(in);
+						break;
+					case 1: //left to exit
+						//exit to select link
+						in.putExtra("data", 1);
+						sendBroadcast(in);
+						Toast.makeText(getApplicationContext(), "exit", 0).show();
+						enable=false;
+						TextEntryState.acceptedDefault(mWord.getTypedWord(), "");
+					break;
+					case 2: 
+						in.putExtra("data", 2);
+						sendBroadcast(in);
+						break;
+					}
 				}
-		
+			
 				new Handler().post(new Runnable() {
-					
+
 					public void run() {
 						// TODO Auto-generated method stub
-					focusChanged(group, subgroup, level);	
+						focusChanged(group, subgroup, level);
 					}
 				});
-				
-				
-				//Log.e("Info After", group + "\t" + subgroup + "\t" + part + "\t"
-				//		+ level + "\n");
+		
+				// Log.e("Info After", group + "\t" + subgroup + "\t" + part +
+				// "\t"
+				// + level + "\n");
 			}
-
-			if (intent.getAction().equals("EEGprocesskey")) {
-				Bundle bun = intent.getExtras();
-				int key = bun.getInt("key");
-				switch (key) {
-				case 1:
-					// xu ly liec trai
-					column1 = column;
-					switch (column) {
-					case 4:
-						column = 13;
-						break;
-					case 14:
-						column = 22;
-						break;
-					case 24:
-						column = 30;
-						break;
-					default:
-						--column;
-					}
-					break;
-				case 2:
-					// xu ly liec phai
-					column1 = column;
-					switch (column) {
-					case 13:
-						column = 4;
-						break;
-					case 22:
-						column = 14;
-						break;
-					case 30:
-						column = 24;
-						break;
-					default:
-						++column;
-					}
-					break;
-				case 3:
-					mHandler.post(new Runnable() {
-
-						public void run() {
-							// onPress((int) keyCode);
-							onKey(keycode[column], null, -1,
-									new int[] { keycode[column] }, true);
-							// tra sua cho nay
-
-						}
-					});
-
-					break;
-				case 4:
-					// xu ly xuong
-					row++;
-					if (row == 3)
-						row = 0;
-					column1 = column;
-					if (row == 0)
-						column = 4;
-					if (row == 1)
-						column = 14;
-					if (row == 2)
-						column = 24;
-					break;
-				case 5:
-					// xu ly len
-					row--;
-					if (row == -1)
-						row = 2;
-					column1 = column;
-					if (row == 0)
-						column = 4;
-					if (row == 1)
-						column = 14;
-					if (row == 2)
-						column = 24;
-					break;
-				}
-				if (key != 3) {
-					teskey = getCurrentKeyboard().getKeys().get(column1);
-					teskey.icon = null;
-					teskey.iconPreview = null;
-					teskey.label = charact[column1];
-					mInputView.setKeyboard(getCurrentKeyboard());
-					teskey = getCurrentKeyboard().getKeys().get(column);
-					teskey.label = null;
-					switch (column) {
-					case 4:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.q);
-						break;
-					case 5:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.w);
-						break;
-					case 6:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.e);
-						break;
-					case 7:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.r);
-						break;
-					case 8:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.t);
-						break;
-					case 9:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.y);
-						break;
-					case 10:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.u);
-						break;
-					case 11:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.i);
-						break;
-					case 12:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.o);
-						break;
-					case 13:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.p);
-						break;
-					case 14:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.a);
-						break;
-					case 15:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.s);
-						break;
-					case 16:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.d);
-						break;
-					case 17:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.f);
-						break;
-					case 18:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.g);
-						break;
-					case 19:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.h);
-						break;
-					case 20:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.j);
-						break;
-					case 21:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.k);
-						break;
-					case 22:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.l);
-						break;
-					case 24:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.z);
-						break;
-					case 25:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.x);
-						break;
-					case 26:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.c);
-						break;
-					case 27:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.v);
-						break;
-					case 28:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.b);
-						break;
-					case 29:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.n);
-						break;
-					case 30:
-						cam = getApplication().getResources().getDrawable(
-								R.drawable.m);
-						break;
-					}
-
-					Bitmap b = ((BitmapDrawable) cam).getBitmap();
-					Bitmap bitmapResized = Bitmap.createScaledBitmap(b,
-							teskey.width, teskey.height, false);
-					cam = new BitmapDrawable(getResources(), bitmapResized);
-					teskey.icon = cam;
-					teskey.iconPreview = cam;
-					mInputView.setKeyboard(getCurrentKeyboard());
-				}
-			}
-
-			/*
-			 * if(intent.getAction().equals("blink")) {
-			 * 
-			 * if(check_blink) { if(k==0) {
-			 * teskey=getCurrentKeyboard().getKeys().get(count); k=1;
-			 * if(teskey.label!=null) label=teskey.label.toString();
-			 * icon1=teskey.icon; icon2=teskey.iconPreview; }
-			 * 
-			 * if(index==0) {
-			 * 
-			 * teskey.label=null;
-			 * cam=getApplication().getResources().getDrawable(R.drawable.c);
-			 * Bitmap b=((BitmapDrawable)cam).getBitmap(); Bitmap bitmapResized
-			 * = Bitmap.createScaledBitmap(b,teskey.width,teskey.height, false);
-			 * cam = new BitmapDrawable(getResources(), bitmapResized);
-			 * teskey.icon=cam; teskey.iconPreview=cam;
-			 * mInputView.setKeyboard(getCurrentKeyboard());
-			 * 
-			 * }
-			 * 
-			 * if(index==1) {
-			 * 
-			 * index=-1; if(icon1==null) { teskey.icon=null;
-			 * teskey.iconPreview=null; teskey.label=label;
-			 * 
-			 * } else { teskey.icon=icon1; teskey.iconPreview=icon2;
-			 * teskey.label=null;
-			 * 
-			 * } mInputView.setKeyboard(getCurrentKeyboard());
-			 * 
-			 * } index++; if(dem==9) { k=0; dem=-1;
-			 * 
-			 * count++; if(count==31) count=4; if(count==23) count=24; } dem++;
-			 * 
-			 * } }
-			 */
 			if (intent.getAction().equals("lab411.eeg.enter")) {
 				mHandler.post(new Runnable() {
 
@@ -815,6 +630,7 @@ public class AnySoftKeyboard extends InputMethodService implements
 				});
 			}
 			if (intent.getAction().equals("lab411.eeg.sendkey")) {
+				
 				Bundle bund = intent.getExtras();
 				String a = "";
 				a = bund.getString("url");
@@ -823,6 +639,15 @@ public class AnySoftKeyboard extends InputMethodService implements
 					getCurrentInputConnection().setComposingText(a, 1);
 
 				}
+				//
+				mHandler.post(new Runnable() {
+
+					public void run() {
+						int keyCode = 10;
+						onKey((int) keyCode, null, -1,
+								new int[] { (int) keyCode }, true);
+					}
+				});
 			}
 			if (intent.getAction().equals("lab411.eeg.selectsuggestion")) {
 				Bundle bundle = intent.getExtras();
@@ -849,167 +674,175 @@ public class AnySoftKeyboard extends InputMethodService implements
 
 	/* end broadcast receive */
 
-	public void changeIcon(int index)
-	{
-	keyblink = getCurrentKeyboard().getKeys().get(index);
-	keyblink.label = null;
-	Bitmap bitmap = ((BitmapDrawable) getResources().getDrawable(R.drawable.mod)).getBitmap();
-	Bitmap bitmapresize = Bitmap.createScaledBitmap(bitmap, keyblink.width, keyblink.height, false);
-	keyblink.icon=new BitmapDrawable(getResources(),bitmapresize);
-	keyblink.iconPreview=new BitmapDrawable(getResources(),bitmapresize);
-	mInputView.setKeyboard(getCurrentKeyboard());
+	public void changeIcon(int index) {
+		keyblink = getCurrentKeyboard().getKeys().get(index); 
+		keyblink.label = null;
+		Bitmap bitmap = ((BitmapDrawable) getResources().getDrawable(
+				R.drawable.mod)).getBitmap(); 
+		Bitmap bitmapresize = Bitmap.createScaledBitmap(bitmap, keyblink.width,
+				keyblink.height, false); 
+		keyblink.icon = new BitmapDrawable(getResources(), bitmapresize); 
+		keyblink.iconPreview = new BitmapDrawable(getResources(), bitmapresize);
+		mInputView.setKeyboard(getCurrentKeyboard());
 	}
 
-	public void changeLayout()
-	{
-		
-		Intent intent = new Intent(NEW_APP);
+	public void changeLayout() {
+		// Call CoAdapt Keyboard
+		Intent intent = new Intent(NEW_APP); 
 		intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 		startActivity(intent);
-		Toast.makeText(getApplicationContext(), "Changed Mode", Toast.LENGTH_SHORT).show();
-		flag=(!flag);
+		Toast.makeText(getApplicationContext(), "Changed Mode",
+				Toast.LENGTH_SHORT).show();
+		flag = (!flag);
 	}
-	
-	public void ResetText (int index)
-	{
-	keyblink = getCurrentKeyboard().getKeys().get(index);
-	keyblink.label = characters[index];
-	mInputView.setKeyboard(getCurrentKeyboard());
+
+	public void ResetText(int index) {
+		keyblink = getCurrentKeyboard().getKeys().get(index);
+		keyblink.label = characters[index]; // Reset label key to default
+		mInputView.setKeyboard(getCurrentKeyboard());
 	}
-	public void ResetKey()
-	{
-	List<Key> listkeys = getCurrentKeyboard().getKeys();
-		
-		for (int i =0;i<listkeys.size();i++)
-		{
+
+	public void ResetKey() {
+		List<Key> listkeys = getCurrentKeyboard().getKeys();
+		// reset Text for each key of listkeys
+		for (int i = 0; i < listkeys.size(); i++) {
 			keyblink = listkeys.get(i);
-		//	keyblink.icon.setAlpha(255);
-		//	changeScreen(k, 255);
+			// keyblink.icon.setAlpha(255);
+			// changeScreen(k, 255);
 			ResetText(i);
 		}
-	
+
 	}
-	public void focusChanged(int Group,int SubGroup,int level)
-	{
-		switch(level)
-		{
+
+	public void focusChanged(int Group, int SubGroup, int level) {
+		switch (level) {
 		case 1:
-			if (group ==1)
-			{
-				for(int i=0;i<3;i++)
-				{
-					int index = i+3*group;
-					keyblink = getCurrentKeyboard().getKeys().get(index);
-					changeIcon(index);
-					keyblink = getCurrentKeyboard().getKeys().get(index+10);
-					changeIcon(index+10);
-					keyblink = getCurrentKeyboard().getKeys().get(index+20);
-					changeIcon(index+20);
-					
-					index+=3;
-					keyblink = getCurrentKeyboard().getKeys().get(index);
-					changeIcon(index);
-					keyblink = getCurrentKeyboard().getKeys().get(index+10);
-					changeIcon(index+10);
-					keyblink = getCurrentKeyboard().getKeys().get(index+20);
-					changeIcon(index+20);
-					
+			if (check_down) {
+				if (group == 4) {
+					for (int i = 0; i < 9; i++) {
+						int index = i;
+						keyblink = getCurrentKeyboard().getKeys().get(index);
+						changeIcon(index);
+						index += 10;
+						keyblink = getCurrentKeyboard().getKeys().get(index);
+						changeIcon(index);
+						index += 10;
+						keyblink = getCurrentKeyboard().getKeys().get(index);
+						changeIcon(index);
+					}
 				}
 			}
-			
-			else if (group ==2)
-			{
-				for(int i=0;i<3;i++)
-				{
-					int index = i+3*group;
+			if (group == 1) {
+
+				// level 1, group 1 => 2 other groups are hidden
+				for (int i = 0; i < 3; i++) {
+					int index = i + 3 * group;
+					// hidden group 2 
 					keyblink = getCurrentKeyboard().getKeys().get(index);
 					changeIcon(index);
-					keyblink = getCurrentKeyboard().getKeys().get(index+10);
-					changeIcon(index+10);
-					keyblink = getCurrentKeyboard().getKeys().get(index+20);
-					changeIcon(index+20);
-					
-					index-=6;
+					keyblink = getCurrentKeyboard().getKeys().get(index + 10);
+					changeIcon(index + 10);
+					keyblink = getCurrentKeyboard().getKeys().get(index + 20);
+					changeIcon(index + 20);
+					// hidden group 3
+					index += 3;
 					keyblink = getCurrentKeyboard().getKeys().get(index);
 					changeIcon(index);
-					keyblink = getCurrentKeyboard().getKeys().get(index+10);
-					changeIcon(index+10);
-					keyblink = getCurrentKeyboard().getKeys().get(index+20);
-					changeIcon(index+20);
-					
+					keyblink = getCurrentKeyboard().getKeys().get(index + 10);
+					changeIcon(index + 10);
+					keyblink = getCurrentKeyboard().getKeys().get(index + 20);
+					changeIcon(index + 20);
+
 				}
 			}
-			else
-			{
-				for(int i=0;i<3;i++)
-				{
-					int index = i+3*(group-2);
+
+			else if (group == 2) {
+				// select group2 => group 1 and 3 are hidden
+				for (int i = 0; i < 3; i++) {
+					int index = i + 3 * group;
+					//group 3
 					keyblink = getCurrentKeyboard().getKeys().get(index);
 					changeIcon(index);
-					keyblink = getCurrentKeyboard().getKeys().get(index+10);
-					changeIcon(index+10);
-					keyblink = getCurrentKeyboard().getKeys().get(index+20);
-					changeIcon(index+20);
-					
-					index-=3;
+					keyblink = getCurrentKeyboard().getKeys().get(index + 10);
+					changeIcon(index + 10);
+					keyblink = getCurrentKeyboard().getKeys().get(index + 20);
+					changeIcon(index + 20);
+					//group 1
+					index -= 6;
 					keyblink = getCurrentKeyboard().getKeys().get(index);
 					changeIcon(index);
-					keyblink = getCurrentKeyboard().getKeys().get(index+10);
-					changeIcon(index+10);
-					keyblink = getCurrentKeyboard().getKeys().get(index+20);
-					changeIcon(index+20);
-					
+					keyblink = getCurrentKeyboard().getKeys().get(index + 10);
+					changeIcon(index + 10);
+					keyblink = getCurrentKeyboard().getKeys().get(index + 20);
+					changeIcon(index + 20);
+
 				}
+			} else if (group == 3) {
+				//select group 3 -> group 1 & 2 are hidden
+				for (int i = 0; i < 3; i++) {
+					//group 2
+					int index = i + 3 * (group - 2);
+					keyblink = getCurrentKeyboard().getKeys().get(index);
+					changeIcon(index);
+					keyblink = getCurrentKeyboard().getKeys().get(index + 10);
+					changeIcon(index + 10);
+					keyblink = getCurrentKeyboard().getKeys().get(index + 20);
+					changeIcon(index + 20);
+					//group 1
+					index -= 3;
+					keyblink = getCurrentKeyboard().getKeys().get(index);
+					changeIcon(index);
+					keyblink = getCurrentKeyboard().getKeys().get(index + 10);
+					changeIcon(index + 10);
+					keyblink = getCurrentKeyboard().getKeys().get(index + 20);
+					changeIcon(index + 20);
+
+				}
+			} else {
+
 			}
-				
+
 			break;
 		case 2:
-			if (subgroup == 1)
-			{
-				for(int i=0;i<3;i++)
-				{
-					int index = (group - 1) * 3 +(subgroup - 1) * 3 + i + 9 + 1;
+			if (subgroup == 1) {
+				for (int i = 0; i < 3; i++) {
+					int index = (group - 1) * 3 + (subgroup - 1) * 3 + i + 9
+							+ 1;
 					keyblink = getCurrentKeyboard().getKeys().get(index);
 					changeIcon(index);
-					index+=10;
+					index += 10;
 					keyblink = getCurrentKeyboard().getKeys().get(index);
 					changeIcon(index);
-					
+
 				}
-			}
-			else if (subgroup == 2)
-			{
-				for (int i=0;i<3;i++)
-				{
-					int index = (group - 1) * 3 + (subgroup-2)*3+i;
+			} else if (subgroup == 2) {
+				for (int i = 0; i < 3; i++) {
+					int index = (group - 1) * 3 + (subgroup - 2) * 3 + i;
 					keyblink = getCurrentKeyboard().getKeys().get(index);
 					changeIcon(index);
-					index+=20;
+					index += 20;
 					keyblink = getCurrentKeyboard().getKeys().get(index);
 					changeIcon(index);
-					
+
 				}
-			}
-			else
-			{
-				for (int i=0;i<3;i++)
-				{
-					int index = ( group - 1) * 3 + (subgroup-3)*3+i;
+			} else {
+				for (int i = 0; i < 3; i++) {
+					int index = (group - 1) * 3 + (subgroup - 3) * 3 + i;
 					keyblink = getCurrentKeyboard().getKeys().get(index);
 					changeIcon(index);
-					index+=10;
+					index += 10;
 					keyblink = getCurrentKeyboard().getKeys().get(index);
 					changeIcon(index);
-					
+
 				}
 			}
 			break;
+
 		}
 	}
-	
+
 	@Override
-	public void onCreate()
-	{
+	public void onCreate() {
 		super.onCreate();
 		Log.i(TAG, "****** AnySoftKeyboard service started.");
 
@@ -1055,9 +888,7 @@ public class AnySoftKeyboard extends InputMethodService implements
 				.createVoiceInput(this);
 
 		TutorialsProvider.showChangeLogIfNeeded(getApplicationContext());
-		// contruct ProcessKeyColor
-		// mHandler.sendMessage(Message.obtain(mHandler, 6));
-		// pro=new ProcessKeyColor(getApplicationContext());
+		
 	}
 
 	@Override
@@ -1069,6 +900,7 @@ public class AnySoftKeyboard extends InputMethodService implements
 
 	private void initSuggest(/* String locale */) {
 		// mLocale = locale;
+		Log.d("Anysofkeyboard", "InitSuggest");
 		mSuggest = new Suggest(this/* , R.raw.main */);
 		mSuggest.setCorrectionMode(mQuickFixes, mShowSuggestions);
 		mSuggest.setMinimumWordLengthForCorrection(mMinimumWordCorrectionLength);
@@ -1087,47 +919,10 @@ public class AnySoftKeyboard extends InputMethodService implements
 		mInputMethodManager.hideStatusIcon(mImeToken);
 		super.onDestroy();
 	}
-
-	
-	public void process_clearn() {
-		th = new Thread(new Runnable() {
-
-			public void run() {
-				// TODO Auto-generated method stub
-				// stop blink thread
-				// blinkTimer.cancel();
-				// blinkTimer.purge();
-				//
-				ArrayList<Key> arr = new ArrayList<Key>();
-				arr = (ArrayList<Key>) getCurrentKeyboard().getKeys();
-				/*
-				 * for(int i=3;i<32;i++) { if((i!=23)&&(i!=31))
-				 * if(arr.get(i).icon!=null) { arr.get(i).icon=null;
-				 * arr.get(i).iconPreview=null; arr.get(i).label=charact[i];
-				 * 
-				 * } }
-				 */
-				count = 4;
-				k = 0;
-				dem = 0;
-				index = 0;
-				try {
-					Thread.sleep(1000);
-				} catch (InterruptedException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
-				mHandler.sendMessage(Message.obtain(mHandler, 6));
-			}
-		});
-		th.start();
-	}
-
 	@Override
 	public void onFinishInputView(boolean finishingInput) {
-
-		// tra sua
-		if (mCheckStateWedService) {
+		enable=false;
+       if (mCheckStateWedService) {
 			stopService(mWebService);
 			mCheckStateWedService = false;
 		}
@@ -1135,7 +930,7 @@ public class AnySoftKeyboard extends InputMethodService implements
 			stopService(mContractService);
 			mCheckStateContractService = false;
 		}
-		// tra sua moi
+		
 
 		if (DEBUG)
 			Log.d(TAG, "onFinishInputView(finishingInput:" + finishingInput
@@ -1150,15 +945,9 @@ public class AnySoftKeyboard extends InputMethodService implements
 		}
 		// Remove penging messages related to update suggestions
 		abortCorrection(true, false);
-		thread_count = 0;
-		check_blink = false;
-		process_clearn();
 		Check_URL = false;
 		unregisterReceiver(receiver);
-		// tra test
-		// Intent intent = new Intent("lab411.eeg.stopbaservice");
-		// sendBroadcast(intent);
-		// Toast.makeText(getApplicationContext(), "phim2", 0).show();
+		
 	}
 
 	@Override
@@ -1284,98 +1073,47 @@ public class AnySoftKeyboard extends InputMethodService implements
 		return candidateViewContainer;
 	}
 
-	// tra sua cho nay
-
-	public void processBlink() {
-		thread_count = 1;
-		blinkTimer = new Timer();
-		blinkTask = new TimerTask() {
-
-			@Override
-			public void run() {
-				// TODO Auto-generated method stub
-				blink1 = new Thread(new Runnable() {
-
-					public void run() {
-						// TODO Auto-generated method stub
-
-						try {
-							Thread.sleep(500);
-							sendBroadcast(new Intent("blink"));
-						} catch (InterruptedException e) {
-							// TODO Auto-generated catch block
-							e.printStackTrace();
-						}
-
-					}
-				});
-				blink1.start();
-			}
-		};
-		blinkTimer.schedule(blinkTask, 0, 500);
-	}
-
-	// tra sua
 	@Override
 	public void onStartInputView(EditorInfo attribute, boolean restarting) {
-		Log.d("testgiangtra", "vao");
-		column = 4;
-		column1 = 4;
-		count = 4;
-		k = 0;
-		dem = 0;
-		index = 0;
-		check_blink = true;
-		Log.d("debug", "onstartinputview");
+		
+		level=0;
+		part=0;
+		group=0;
+		subgroup=0;
+		check_down=false;
+		enable=false;
+		ResetKey();
+		registerReceiver(receiver, new IntentFilter("eeg.lab411.selectModel"));
+		registerReceiver(receiver, new IntentFilter("lab411.eeg.Dictionary"));
 		registerReceiver(receiver, new IntentFilter("lab411.eeg.bindkey"));
 		registerReceiver(receiver, new IntentFilter("select"));
 		registerReceiver(receiver, new IntentFilter(
 				"lab411.eeg.selectsuggestion"));
 		registerReceiver(receiver, new IntentFilter(
 				"lab411.eeg.controlbackspace"));
-		registerReceiver(receiver, new IntentFilter("lab411.eeg.enter"));// tra
-																			// sua
-		registerReceiver(receiver, new IntentFilter("lab411.eeg.sendkey"));// tra
-																			// sua
+		registerReceiver(receiver, new IntentFilter("lab411.eeg.enter"));
+		registerReceiver(receiver, new IntentFilter("lab411.eeg.sendkey"));
 		registerReceiver(receiver, new IntentFilter("lab411.eeg.deleteall"));
-		registerReceiver(receiver, new IntentFilter("blink"));
-		registerReceiver(receiver, new IntentFilter("EEGprocesskey"));
 		registerReceiver(receiver, new IntentFilter("EEGKeyCodeReceived"));
-
-		// registerReceiver(receiver, new IntentFilter("lab411.eeg.onkeydown"));
-		// Intent intent = new Intent("lab411.eeg.startbaservice");
-		// sendBroadcast(intent);
-
-			
-
-		// nhan biet goi ung dung de bat URL
+		// 
 		String app_chome = "com.android.chrome";
 		String app_brower = "com.android.browser";
-		String app_googlesearch = "com.google.android.googlequicksearchbox";// tra
-																			// sua
-																			// ,them
-																			// so
-																			// 1
+		String app_googlesearch = "com.google.android.googlequicksearchbox";// 
 		String appname = getCurrentInputEditorInfo().packageName;
-		Log.d("trapcket", appname);
-
 		if ((attribute.inputType & EditorInfo.TYPE_MASK_VARIATION) == EditorInfo.TYPE_TEXT_VARIATION_URI)
 			Check_URL = true;
 		if ((Check_URL == true) || appname.equals(app_googlesearch)) {
 			try {
 
 				if (mCheckStateWedService == false) {
-					// mWebService=new Intent(getApplicationContext(),
-					// service.class);
-					/*
-					 * mWebService=new Intent(getApplicationContext(),
-					 * UrlService.class); startService(mWebService);
-					 * mCheckStateWedService=true;
-					 */
-
+					mWebService = new Intent(getApplicationContext(),
+							UrlService.class);
+					startService(mWebService);
+					mCheckStateWedService = true;
+					 
 				}
 			} catch (Exception e) {
-				System.out.println("loi o day");
+				
 			}
 		}
 		if (appname.equals("com.android.contacts")) {
@@ -1389,11 +1127,10 @@ public class AnySoftKeyboard extends InputMethodService implements
 
 				}
 			} catch (Exception e) {
-				System.out.println("loi o day");
+				
 			}
 		}
 
-		// tra sua cho nay
 		if (DEBUG)
 			Log.d(TAG, "onStartInputView(EditorInfo:" + attribute.imeOptions
 					+ "," + attribute.inputType + ", restarting:" + restarting
@@ -1431,7 +1168,7 @@ public class AnySoftKeyboard extends InputMethodService implements
 						"Setting MODE_DATETIME as keyboard due to a TYPE_CLASS_DATETIME input.");
 			mKeyboardSwitcher.setKeyboardMode(KeyboardSwitcher.MODE_DATETIME,
 					attribute);
-			// tra sua
+			
 			break;
 		case EditorInfo.TYPE_CLASS_NUMBER:
 			if (DEBUG)
@@ -1439,7 +1176,7 @@ public class AnySoftKeyboard extends InputMethodService implements
 						"Setting MODE_NUMBERS as keyboard due to a TYPE_CLASS_NUMBER input.");
 			mKeyboardSwitcher.setKeyboardMode(KeyboardSwitcher.MODE_NUMBERS,
 					attribute);
-			// tra sua
+			
 			break;
 		case EditorInfo.TYPE_CLASS_PHONE:
 			if (DEBUG)
@@ -1447,12 +1184,12 @@ public class AnySoftKeyboard extends InputMethodService implements
 						"Setting MODE_PHONE as keyboard due to a TYPE_CLASS_PHONE input.");
 			mKeyboardSwitcher.setKeyboardMode(KeyboardSwitcher.MODE_PHONE,
 					attribute);
-			// tra sua
+			
 			break;
 		case EditorInfo.TYPE_CLASS_TEXT:
 			if (DEBUG)
 				Log.d(TAG, "A TYPE_CLASS_TEXT input.");
-			// tra sua
+			
 			final int variation = attribute.inputType
 					& EditorInfo.TYPE_MASK_VARIATION;
 			switch (variation) {
@@ -1468,7 +1205,7 @@ public class AnySoftKeyboard extends InputMethodService implements
 			}
 
 			if (mConfig.getInsertSpaceAfterCandidatePick()) {
-				// tra sua
+				
 				switch (variation) {
 				case EditorInfo.TYPE_TEXT_VARIATION_EMAIL_ADDRESS:
 				case EditorInfo.TYPE_TEXT_VARIATION_URI:
@@ -1493,14 +1230,14 @@ public class AnySoftKeyboard extends InputMethodService implements
 
 				break;
 			case EditorInfo.TYPE_TEXT_VARIATION_URI:
-				System.out.println("NHAY VAO AUTOCOMPLE 2 ");
+				System.out.println("CHOOSE AUTOCOMPLETE 2 ");
 
 				if (DEBUG)
 					Log.d(TAG,
 							"Setting MODE_URL as keyboard due to a TYPE_TEXT_VARIATION_URI input.");
 				mKeyboardSwitcher.setKeyboardMode(KeyboardSwitcher.MODE_URL,
 						attribute);
-				mPredictionOn = false;
+				mPredictionOn = true;
 				break;
 			case EditorInfo.TYPE_TEXT_VARIATION_SHORT_MESSAGE:
 				if (DEBUG)
@@ -1524,7 +1261,7 @@ public class AnySoftKeyboard extends InputMethodService implements
 			case 0x00080000:// FROM API 5:
 							// EditorInfo.TYPE_TEXT_FLAG_NO_SUGGESTIONS:
 			case EditorInfo.TYPE_TEXT_FLAG_AUTO_COMPLETE:
-				System.out.println("DAU VAO INPUT LA AUTOCOMPLETE 1");
+				System.out.println("INPUT IS AUTOCOMPLETE 1");
 
 				if (DEBUG)
 					Log.d(TAG,
@@ -1545,8 +1282,9 @@ public class AnySoftKeyboard extends InputMethodService implements
 			// connection
 			mKeyboardSwitcher.setKeyboardMode(KeyboardSwitcher.MODE_TEXT,
 					attribute);
-			mPredictionOn = false;
+			mPredictionOn = false;//test false
 			mAutoSpace = true;
+			
 		}
 
 		// mInputView.closing();
@@ -1579,23 +1317,6 @@ public class AnySoftKeyboard extends InputMethodService implements
 		}
 		if (TRACE_SDCARD)
 			Debug.startMethodTracing("anysoftkeyboard_log.trace");
-		// tra test
-		// if(thread_count==0)
-		// processBlink();
-		// processKeyboardInterface();
-		// khoi tao gia tri
-		
-	/*	teskey = getCurrentKeyboard().getKeys().get(column);
-		teskey.label = null;
-		cam = getApplication().getResources().getDrawable(R.drawable.q);
-		Bitmap bitmap = ((BitmapDrawable) cam).getBitmap();
-		Bitmap bitmapResize = Bitmap.createScaledBitmap(bitmap, teskey.width,
-				teskey.height, false);
-		cam = new BitmapDrawable(getResources(), bitmapResize);
-		teskey.icon = cam;
-		teskey.iconPreview = cam;
-		mInputView.setKeyboard(getCurrentKeyboard());
-	*/	//
 	}
 
 	@Override
@@ -2545,10 +2266,10 @@ public class AnySoftKeyboard extends InputMethodService implements
 	public void onKey(int primaryCode, Key key, int multiTapIndex,
 			int[] nearByKeyCodes, boolean fromUI) {
 
-		// tra sua
 
-		String charrec = mWord.getTypedWord().toString();// tra sua moi
+		String charrec = mWord.getTypedWord().toString();
 		// String v= getCurrentWord().getTypedWord().toString();
+		
 		String charrec1 = "";
 		Intent intent = new Intent("lab411.eeg.onkey");
 		intent.putExtra("keycode", primaryCode);
@@ -2783,7 +2504,8 @@ public class AnySoftKeyboard extends InputMethodService implements
 			sendEscape();
 			break;
 		case KeyCodes.CO_ADAPT:
-			changeLayout();
+			changeLayout(); //SW Button to call CoAdapt Keyboard
+			
 			break;
 		default:
 			// Issue 146: Right to left langs require reversed parenthesis
@@ -2831,7 +2553,8 @@ public class AnySoftKeyboard extends InputMethodService implements
 			}
 			break;
 		}
-
+         // String mCurrentWord=mWord.getTypedWord().toString();
+         // Toast.makeText(getApplicationContext(), mCurrentWord, 0).show();
 	}
 
 	private boolean isConnectbot() {
@@ -3508,7 +3231,7 @@ public class AnySoftKeyboard extends InputMethodService implements
 				correctionAvailable);
 		if (stringList.size() > 0) {
 			if (correctionAvailable && !typedWordValid && stringList.size() > 1) {
-				mBestWord = stringList.get(1);
+				mBestWord = stringList.get(0);
 			} else {
 				mBestWord = typedWord;
 			}
@@ -3518,9 +3241,21 @@ public class AnySoftKeyboard extends InputMethodService implements
 		setCandidatesViewShown(shouldCandidatesStripBeShown() || mCompletionOn);
 
 		/* Huy */
+		ArrayList<String> ArrData=new ArrayList<String>();
+		String th="";
+		int i=0;
 		for (CharSequence ch : stringList) {
 			System.out.println("List Autotext: " + ch);
+			th=ch.toString();
+			if(i<3)
+			ArrData.add(th);
+			i++;
 		}
+		
+		Intent mDic=new Intent("lab411.eeg.Word");
+		mDic.putStringArrayListExtra("data",ArrData);
+		sendBroadcast(mDic);
+		
 		/* TaDuc */
 	}
 
@@ -4581,7 +4316,6 @@ public class AnySoftKeyboard extends InputMethodService implements
 			return;
 		mUserDictionary.addWord(word, frequency);
 	}
-
 	public WordComposer getCurrentWord() {
 		return mWord;
 	}
@@ -4616,27 +4350,9 @@ public class AnySoftKeyboard extends InputMethodService implements
 			setCandidatesViewShown(false);
 		}
 	}
-
-	/*
-	 * tra process keyboard interface
-	 */
 	public void processKeyboardInterface() {
-		/*
-		 * Log.d("test", "processkey");
-		 * //mHandler.sendMessage(Message.obtain(mHandler, 6));
-		 * teskey=getCurrentKeyboard().getKeys().get(15); if(teskey.label!=null)
-		 * teskey.label=null; String a=""; //teskey.label.toString().
-		 * cam=getApplication().getResources().getDrawable(R.drawable.m1);
-		 * Bitmap b=((BitmapDrawable)cam).getBitmap(); Bitmap bitmapResized =
-		 * Bitmap.createScaledBitmap(b,teskey.width,teskey.height, false); cam =
-		 * new BitmapDrawable(getResources(), bitmapResized); teskey.icon=cam;
-		 * teskey.iconPreview=cam; mInputView.setKeyboard(getCurrentKeyboard());
-		 */
-		// ProcessKeyColor pr=new
-		// ProcessKeyColor(getApplicationContext(),mInputView);
-		teskey = getCurrentKeyboard().getKeys().get(15);
-		pro.processColor(teskey);
+				
 		mInputView.setKeyboard(getCurrentKeyboard());
 	}
-
+   
 }

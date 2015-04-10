@@ -76,7 +76,7 @@ public class Contract_Service extends Service{
 					LayoutParams.MATCH_PARENT, LayoutParams.TYPE_SYSTEM_ALERT,
 					LayoutParams.FLAG_NOT_FOCUSABLE|LayoutParams.FLAG_WATCH_OUTSIDE_TOUCH,
 					PixelFormat.TRANSLUCENT);
-			params.gravity = Gravity.CENTER | Gravity.TOP;// tra sua
+			params.gravity = Gravity.CENTER | Gravity.TOP;
 		    params.y=80;
 			params.height=150;
 			params.width=300;
@@ -124,7 +124,7 @@ public class Contract_Service extends Service{
 			}
 			if(intent.getAction().equals("lab411.eeg.selecturl"))
 			{
-                Toast.makeText(getApplicationContext(), "vao roi", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "CAll", Toast.LENGTH_SHORT).show();
 				Bundle bun=intent.getExtras();
 				if(bun!=null)
 				{
@@ -142,7 +142,7 @@ public class Contract_Service extends Service{
 					Intent write=new Intent(Intent.ACTION_VIEW,Uri.parse("content://contacts/people/"+num));
 					write.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 					startActivity(write);
-					Toast.makeText(getApplicationContext(), "ban chon hang "+so, Toast.LENGTH_LONG).show();
+					//Toast.makeText(getApplicationContext(), "ban chon hang "+so, Toast.LENGTH_LONG).show();
 					}
 				}
 			}

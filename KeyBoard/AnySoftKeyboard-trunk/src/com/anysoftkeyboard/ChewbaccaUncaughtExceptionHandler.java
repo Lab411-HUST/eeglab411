@@ -89,17 +89,7 @@ class ChewbaccaUncaughtExceptionHandler implements UncaughtExceptionHandler {
 			Log.i(TAG, "Sending the exception to OS exception handler...");
 			mOsDefaultHandler.uncaughtException(thread, ex);
 		}
-		//index=0,count=4,k=0,dem=0,st=0,thread_count=0;
-		// check=false,check_blink=false;
-		// set up lai cac thuoc tinh khi bi loi
 		
-		AnySoftKeyboard.check_blink=false;
-		AnySoftKeyboard.index=0;
-		AnySoftKeyboard.count=4;
-		AnySoftKeyboard.k=0;
-		AnySoftKeyboard.dem=0;
-		
-		AnySoftKeyboard.thread_count=0;
 		
 		System.exit(0);
 	}

@@ -60,7 +60,7 @@
         <Key android:codes="110" android:keyLabel="n"  android:popupCharacters="ñń"/>
         <Key android:codes="109" android:keyLabel="m" />
         <Key android:codes="111" android:popupCharacters="9òóôõöøőœō" />
-        <Key android:codes="-5"  android:keyEdgeFlags="right" android:isRepeatable="true"/>
+        <Key android:codes="-5"  android:keyLabel="✘" android:keyEdgeFlags="right" android:isRepeatable="true"/>
         <Key android:codes="-193" android:keyLabel="SW" />
     </Row>
 </Keyboard>
