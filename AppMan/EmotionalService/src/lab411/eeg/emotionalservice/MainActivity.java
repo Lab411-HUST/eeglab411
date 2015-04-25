@@ -32,10 +32,11 @@ public class MainActivity extends Activity {
 	private TextView tv_Status;
 
 	public List<Emokit_Frame> mSignal;
-	public ArrayList<Double> hfdArr, hfdAveArr;
+	public ArrayList<Double> hfdArr, hfdAveArr, conArr;
 	boolean run = true;
 	private boolean mBound;
 	private EmotionalService eService;
+	public Handler handler = new Handler();
 
 	private ServiceConnection mConnection = new ServiceConnection() {
 
@@ -121,9 +122,10 @@ public class MainActivity extends Activity {
 
 	private class EEGCapture extends Thread {
 		int start = 0;
-		int windowsize = 1024;
+		int windowsize = 128;
 		int overlap = 0;
 		int number = 0;
+		int time = -1;
 
 		public byte[] int2byte(int[] src) {
 			byte[] res = new byte[src.length];
@@ -142,9 +144,16 @@ public class MainActivity extends Activity {
 			mSignal = new ArrayList<Emokit_Frame>();
 			hfdArr = new ArrayList<Double>();
 			hfdAveArr = new ArrayList<Double>();
+			conArr = new ArrayList<Double>();
+			handler.post(new Runnable() {
 
+				@Override
+				public void run() {
+					tv_Status.setText("Start training");
+				}
+			});
 			while (run) {
-				if (number <= 128 * 30) {
+				if (number <= 128 * 31) {
 					number++;
 					Log.d("TAG", "Start capture data: " + number);
 					int[] res = LibEmotiv.ReadRawData();
@@ -157,10 +166,20 @@ public class MainActivity extends Activity {
 							start++;
 							continue;
 						}
+						if (number % 128 == 0) {
+							time++;
+							handler.post(new Runnable() {
+
+								@Override
+								public void run() {
+									tv_Status.setText("Time: " + time + "s");
+								}
+							});
+						}
 						if (mSignal.size() < windowsize) {
 							mSignal.add(k);
 						} else {
-							if (overlap < 10) {
+							if (overlap < 64) {
 								overlap++;
 								mSignal.remove(0);
 								mSignal.add(k);
@@ -168,19 +187,35 @@ public class MainActivity extends Activity {
 								overlap = 0;
 								// new EEGHandling().start();
 								int signalFC6[] = new int[mSignal.size()];
-								for (int i = 0; i < 1024; i++) {
+								int signalAF3[] = new int[mSignal.size()];
+								for (int i = 0; i < windowsize; i++) {
 									signalFC6[i] = mSignal.get(i).FC6;
+									signalAF3[i] = mSignal.get(i).AF3;
 								}
 								double[] signalFC6_filter = new double[signalFC6.length];
 								signalFC6_filter = Calculate.getYnFilter(
 										signalFC6, signalFC6.length, 1024,
 										2 * Math.PI * 2 / 128,
 										2 * Math.PI * 30 / 128, 1.5);
-
+								double[] signalAF3_theta = Calculate
+										.getYnFilter(signalAF3,
+												signalAF3.length, 1024,
+												2 * Math.PI * 4 / 128,
+												2 * Math.PI * 7 / 128, 1.5);
+								double[] signalAF3_beta = Calculate
+										.getYnFilter(signalAF3,
+												signalAF3.length, 1024,
+												2 * Math.PI * 12 / 128,
+												2 * Math.PI * 20 / 128, 1.5);
 								double hfd_value = Calculate.gethfd(
 										signalFC6_filter,
 										signalFC6_filter.length);
+								double con_point = Calculate.calcPower(
+										signalAF3_beta, signalAF3_beta.length)
+										/ Calculate.calcPower(signalAF3_theta,
+												signalAF3_theta.length);
 
+								conArr.add(con_point);
 								hfdArr.add(hfd_value);
 								int size = hfdArr.size();
 								if (size == 10) {
@@ -195,25 +230,47 @@ public class MainActivity extends Activity {
 								}
 							}
 						}
-
 					} catch (Exception e) {
 						e.printStackTrace();
 					}
 				} else {
+					handler.post(new Runnable() {
+
+						@Override
+						public void run() {
+							tv_Status.setText("Writing training data");
+						}
+					});
 					Log.d("TAG", "Write preferrences");
 					number = 0;
+					double conAve = Calculate.mean(conArr);
 					if (hfdAveArr.size() > 1) {
 						SharedPreferences pref = PreferenceManager
 								.getDefaultSharedPreferences(getApplicationContext());
 						Editor edit = pref.edit();
 						edit.putFloat("Min", (float) min(hfdAveArr));
 						edit.putFloat("Max", (float) max(hfdAveArr));
+						edit.putFloat("Con", (float) conAve);
 						edit.commit();
 						Log.d("TAG", "Finish preferrences");
+						handler.post(new Runnable() {
+
+							@Override
+							public void run() {
+								tv_Status.setText("Training finished");
+							}
+						});
 						break;
+					} else {
+						handler.post(new Runnable() {
+
+							@Override
+							public void run() {
+								tv_Status.setText("Training failed");
+							}
+						});
 					}
 				}
-
 			}
 		}
 	}

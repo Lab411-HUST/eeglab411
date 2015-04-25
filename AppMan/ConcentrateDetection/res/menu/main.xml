@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/mi_start"
+        android:title="Training+Running">
+    </item>
+    <item
+        android:id="@+id/mi_traning"
+        android:title="Training">
+    </item>
+    <item
+        android:id="@+id/mi_traningrelaxSVM"
+        android:title="Traning relax">
+    </item>
+    <item
+        android:id="@+id/mi_trainingconSVM"
+        android:title="Traning concentration">
+    </item>
+    <item
+        android:id="@+id/mi_running"
+        android:title="Running(occurrent)">
+    </item>
+    <item
+        android:id="@+id/mi_running_peak"
+        android:title="Running(Detect Peak)">
+    </item>
+    <item
+        android:id="@+id/mi_runningSVM"
+        android:title="Running SVM">
+    </item>
+    <item
+        android:id="@+id/mi_stop"
+        android:title="Stop">
+    </item>
+    <item
+        android:id="@+id/mi_setting"
+        android:title="Setting">
+    </item>
+
+</menu>

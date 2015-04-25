@@ -33,3 +33,8 @@ LOCAL_MODULE := hfd
 LOCAL_SRC_FILES := hfd.c
 
 include $(BUILD_SHARED_LIBRARY)
+#Build Power
+include $(CLEAR_VARS)
+LOCAL_MODULE    := power
+LOCAL_SRC_FILES := power.c
+include $(BUILD_SHARED_LIBRARY)
