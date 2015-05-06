@@ -10,7 +10,8 @@ import java.util.List;
 import lab411.eeg.emotiv.AES;
 import lab411.eeg.emotiv.Emokit_Frame;
 import lab411.eeg.emotiv.LibEmotiv;
-import lab411.eeg.process_signal.LowPassFilter;
+
+import lab411.eeg.process_signal.MedianFilter;
 import lab411.eeg.process_signal.daubechies;
 import android.app.Service;
 import android.content.Intent;
@@ -30,7 +31,8 @@ public class EEGService extends Service {
 	public static final int BLINK=0;
 	public static final int UP_EDGE=1;
 	public static final int DOWN_EDGE=2;
-	LowPassFilter filter; // Filter
+	
+	MedianFilter mMedianFilter;
 	daubechies mDaubechies;
 	private boolean run = true;
 
@@ -57,9 +59,7 @@ public class EEGService extends Service {
 		mSignal = new ArrayList<Emokit_Frame>();
 		index = 0;
 		start = 0;
-		filter= new LowPassFilter(601, Math.PI / 8);
-		// PI/8 ~ 0 -> 8Hz
-		filter.Hamming();
+		mMedianFilter=new MedianFilter(3);
 		mDaubechies=new daubechies();
 		List<String> cmds = new ArrayList<String>();
 		cmds.add("chmod 777 /dev/hidraw1");
@@ -186,27 +186,7 @@ public class EEGService extends Service {
 		public double[] OnFilter(double [] input) {
 			int l =input.length;
 			double Output[]=new double[l];
-			double signal[] = new double[l + 600];
-			for (int i = 0; i < signal.length; i++) {
-				if (i >= 0 && i <= 300) {
-					signal[i] = input[0];
-				} else if (i >= (signal.length - 301)
-						&& i <= (signal.length - 1)) {
-					signal[i] = input[l-1];
-				} else {
-					signal[i] = input[i - 300];
-				}
-			}
-			//
-			double[] signal_convolution = filter.Filt(signal);
-			// cut signal
-			for (int i = 0; i < signal_convolution.length; i++) {
-				if (i >= ((int) filter.M + 300)
-						&& i < ((int) filter.M + 300) + l) {
-					Output[i - ((int) filter.M + 300)] = signal_convolution[i];
-				}
-			}
-			//
+			Output=mMedianFilter.OnMedianFilter(input);
 			return Output;
 		}
 		//Detect Fixation
