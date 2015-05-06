@@ -1,7 +1,7 @@
 package lab411.eeg.gazeservice;
 
-
 import lab411.eeg.gazeservice.EEGService.EEGBinder;
+
 import android.content.BroadcastReceiver;
 import android.content.ComponentName;
 import android.content.Context;

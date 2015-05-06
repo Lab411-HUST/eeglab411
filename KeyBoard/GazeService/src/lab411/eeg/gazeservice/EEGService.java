@@ -1,17 +1,17 @@
 package lab411.eeg.gazeservice;
 
 import java.io.DataOutputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.OutputStreamWriter;
-import java.io.Serializable;
+
 import java.util.ArrayList;
 import java.util.List;
+
+
 
 import lab411.eeg.emotiv.AES;
 import lab411.eeg.emotiv.Emokit_Frame;
 import lab411.eeg.emotiv.LibEmotiv;
+import lab411.eeg.process_signal.LowPassFilter;
+import lab411.eeg.process_signal.daubechies;
 import android.app.Service;
 import android.content.Intent;
 import android.os.Binder;
@@ -27,7 +27,11 @@ public class EEGService extends Service {
 	public static final String GAZE_DOWN = "com.lab411.gazedown";
 	public static final String EYE_BLINK = "com.lab411.eyeblink";
 	public static final String EEG_DATA = "com.lab411.eegdata";
-
+	public static final int BLINK=0;
+	public static final int UP_EDGE=1;
+	public static final int DOWN_EDGE=2;
+	LowPassFilter filter; // Filter
+	daubechies mDaubechies;
 	private boolean run = true;
 
 	public List<Emokit_Frame> mSignal;
@@ -53,7 +57,10 @@ public class EEGService extends Service {
 		mSignal = new ArrayList<Emokit_Frame>();
 		index = 0;
 		start = 0;
-		
+		filter= new LowPassFilter(601, Math.PI / 8);
+		// PI/8 ~ 0 -> 8Hz
+		filter.Hamming();
+		mDaubechies=new daubechies();
 		List<String> cmds = new ArrayList<String>();
 		cmds.add("chmod 777 /dev/hidraw1");
 		try {
@@ -147,7 +154,7 @@ public class EEGService extends Service {
 					if (mSignal.size() < 128) {
 						mSignal.add(k);
 					} else {
-						if (index < 10) {
+						if (index < 20) {//10
 							index++;
 							mSignal.remove(0);
 							mSignal.add(k);
@@ -176,9 +183,113 @@ public class EEGService extends Service {
 	private Handler handler = new Handler();
 
 	class EEGHandling extends Thread {
+		public double[] OnFilter(double [] input) {
+			int l =input.length;
+			double Output[]=new double[l];
+			double signal[] = new double[l + 600];
+			for (int i = 0; i < signal.length; i++) {
+				if (i >= 0 && i <= 300) {
+					signal[i] = input[0];
+				} else if (i >= (signal.length - 301)
+						&& i <= (signal.length - 1)) {
+					signal[i] = input[l-1];
+				} else {
+					signal[i] = input[i - 300];
+				}
+			}
+			//
+			double[] signal_convolution = filter.Filt(signal);
+			// cut signal
+			for (int i = 0; i < signal_convolution.length; i++) {
+				if (i >= ((int) filter.M + 300)
+						&& i < ((int) filter.M + 300) + l) {
+					Output[i - ((int) filter.M + 300)] = signal_convolution[i];
+				}
+			}
+			//
+			return Output;
+		}
+		//Detect Fixation
+        boolean DetectFixation(double []input){
+        	boolean state=false;
+        	int max=0;
+        	int t=0,k=-1; 
+        	for(int i=0;i<input.length;i++) {
+        		double a=input[i];
+        		if(Math.abs(a)>35) { 
+        		t=1; 
+        		if(k>max)
+        		max=k;
+        		k=-1;
+        		}
+        		if(t==1)
+        		k++;
+        	}
+        	if(max>3)
+        	state=true;
+        	
+        	return state;
+        }
+		// Detect Saccade
+		int DetectSaccade(double []input,int type) {
+			int state=0;
+			double s[]=new double[input.length];
+			s=mDaubechies.forwardTrans(input);
+			double coefficients[]=new double[16];
+			coefficients[0]=0;
+			for(int i=17;i<32;i++)
+			coefficients[i-16]=s[i];
+			//
+			boolean _coefficient=DetectFixation(coefficients);
+			switch (type) {
+			case 0:
+				int k=0;
+				for(int i=0;i<16;i++) {
+					if(Math.abs(coefficients[i])>35)
+						k++;
+				}
+				
+				if(k>2)
+				state=1;
+				k=0;
+				break;
+			case 1:
+				int h=0;
+				int h1=0;
+				for(int i=0;i<8;i++)
+					if(Math.abs(coefficients[i])>35)
+						h++;
+				for(int i=8;i<16;i++)
+					if(Math.abs(coefficients[i])>35)
+						h1++;
+				if((h>0)&&(h1>0)&&_coefficient)
+					state=1;
+				else 
+					state=0;
+				break;
+			case 2:
+				
+				int t=0;
+				int t1=0;
+				for(int i=0;i<8;i++)
+					if(Math.abs(coefficients[i])>35)
+						t++;
+				for(int i=8;i<16;i++)
+					if(Math.abs(coefficients[i])>35)
+						t1++;
+				if((t>0)&&(t1>0)&&_coefficient)
+					state=1;
+				else 
+					state=0;
+				break;
+			default:
+				break;
+			}
+			return state;
+		}
 		@Override
 		public void run() {
-		
+		    long starttimerend =System.currentTimeMillis();
 			int sum1F8 = 0;
 			int sum2F8 = 0;
 			int sum3F8 = 0;
@@ -295,50 +406,82 @@ public class EEGService extends Service {
 				Intent s = new Intent();
 				s.setAction("EEGKeyCodeReceived");
 				if (F8 == 1 && F7 == -1)  {
-					
-					s.putExtra("key", 2);
-					sendBroadcast(s);
-					handler.post(new Runnable() {
+					double mF7[]=new double[128];
+					double mF8[]=new double[128];
+					for(int i=0;i<128;i++) {
+						mF7[i]=mSignal.get(i).F7;
+						mF8[i]=mSignal.get(i).F8;
+					}
+						
+					int up=DetectSaccade(mF8, UP_EDGE);
+					int down=DetectSaccade(mF7, DOWN_EDGE);
+					if(up==1||down==1) {
+						s.putExtra("key", 2);
+						sendBroadcast(s);
+						handler.post(new Runnable() {
 
-						@Override
-						public void run() {
-							Intent intent = new Intent(GAZE_RIGHT);
-							getApplicationContext().sendBroadcast(intent);
-							Toast.makeText(getApplicationContext(), "RIGHT ", 0)
-									.show();
-						}
-					});
+							@Override
+							public void run() {
+								Intent intent = new Intent(GAZE_RIGHT);
+								getApplicationContext().sendBroadcast(intent);
+								Toast.makeText(getApplicationContext(), "RIGHT ", 0)
+										.show();
+							}
+						});
+						
 					mSignal.clear();
-					
 					t=1;
+					}
 					
 				}
 				if (F8 == -1 && F7 == 1)  {
 					
-					s.putExtra("key", 1);
-					sendBroadcast(s);
-					handler.post(new Runnable() {
+					
+					double mF7[]=new double[128];
+					double mF8[]=new double[128];
+					for(int i=0;i<128;i++) {
+						mF7[i]=mSignal.get(i).F7;
+						mF8[i]=mSignal.get(i).F8;
+					}
+						
+					int up=DetectSaccade(mF8, DOWN_EDGE);
+					int down=DetectSaccade(mF7, UP_EDGE);
+					if(up==1||down==1) {
+						s.putExtra("key", 1);
+						sendBroadcast(s);
+						handler.post(new Runnable() {
 
-						@Override
-						public void run() {
-							Intent intent = new Intent(GAZE_LEFT);
-							getApplicationContext().sendBroadcast(intent);
-							Toast.makeText(getApplicationContext(), "LEFT ", 0)
-									.show();
-						}
-					});
+							@Override
+							public void run() {
+								Intent intent = new Intent(GAZE_LEFT);
+								getApplicationContext().sendBroadcast(intent);
+								Toast.makeText(getApplicationContext(), "LEFT ", 0)
+										.show();
+							}
+						});
 					mSignal.clear();
 					
 					t=1;
-				
+					
+					}
+									
 				}
 				
 			}
 			
 			if (AF3 != 0 && AF4 != 0 && t==0) {
 				if (AF3 == -1 && AF4 == -1) {
-				
-					handler.post(new Runnable() {
+					double af3[]=new double[128];
+					double af4[]=new double[128];
+					for(int i=0;i<128;i++) {
+						af3[i]=mSignal.get(i).AF3;
+						af4[i]=mSignal.get(i).AF4;
+					}
+						
+					int down1=DetectSaccade(af3, DOWN_EDGE);
+					int down=DetectSaccade(af4, DOWN_EDGE);
+					if(down1==1||down==1) {
+						handler.post(new Runnable() {
 
 						@Override
 						public void run() {
@@ -350,43 +493,25 @@ public class EEGService extends Service {
 							Toast.makeText(getApplicationContext(), "DOWN ", 0)
 									.show();
 						}
-					});
+					  });
+						mSignal.clear();
+						t=1;
+						
+					}
 					
-					mSignal.clear();
-					t=1;
 				}
 				if (AF3 == 1 && AF4 == 1) {
 					
-					int indexup=0;
-					int indexdown=0;
-					boolean check12=false;
-					for(int i=0;i<40;i++){
-						for(int j=i+1;j<(i+10);j++) {
-							int m=mSignal.get(i).AF3;
-							int n=mSignal.get(j).AF3;
-							if(n-m>100){
-								indexup=j;
-								check12=true;
-							}
-								
-						}
-						if(check12)
-							break;
+					double af3[]=new double[128];
+					double af4[]=new double[128];
+					for(int i=0;i<128;i++) {
+						af3[i]=mSignal.get(i).AF3;
+						af4[i]=mSignal.get(i).AF4;
 					}
-					check12=false;
-					for(int i=75;i<110;i++) {
-						for(int j=i+1;j<(i+10);j++) {
-							int m=mSignal.get(i).AF3;
-							int n=mSignal.get(j).AF3;
-							if(m-n>100){
-								indexdown=i;
-								check12=true;
-							}
-						}
-						if(check12)
-							break;
-					}
-					if(indexdown-indexup > 55) {
+						
+					int up1=DetectSaccade(af3,BLINK);
+					int up=DetectSaccade(af4, BLINK);
+					if(up1==1||up==1) {
 						handler.post(new Runnable() {
 
 							@Override
@@ -399,13 +524,11 @@ public class EEGService extends Service {
 								Toast.makeText(getApplicationContext(), "BLINK ", 0)
 										.show();
 							}
-						});
-						
+						  });
 						mSignal.clear();
 						t=1;
-						
 					}
-				    	
+					
 				}
 			}
       }
