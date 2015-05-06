@@ -302,8 +302,8 @@ public class MainActivity extends Activity {
 			if (!run) {
 				RunningwithSVM capture = new RunningwithSVM(90);
 				capture.start();
-				Toast.makeText(getApplicationContext(), "Running: SVM", 0)
-						.show();
+				Toast.makeText(getApplicationContext(), "Running: SVM",
+						0).show();
 			}
 			return true;
 		case R.id.mi_stop:
@@ -1509,18 +1509,17 @@ public class MainActivity extends Activity {
 					if (timer == longs) {
 						run = false; // stop training.
 						Log.d("TAG", "Writing file...");
-
-						// //Xoa file training
-						// File f = new
-						// File("/sdcard/Concentrate/Result/TRAINING.txt");
-						// f.delete();
-
-						// Create model file
-						SVM.trainClassifier(
-								"/sdcard/Concentrate/Result/TRAINING.txt",
-								kernelType, cost, gamma, isProb,
-								"/sdcard/Concentrate/Result/MODEL.txt");
-
+						
+//						//Xoa file training
+//						File f = new File("/sdcard/Concentrate/Result/TRAINING.txt");
+//						f.delete();
+			
+							// Create model file
+							SVM.trainClassifier(
+									"/sdcard/Concentrate/Result/TRAINING.txt",
+									kernelType, cost, gamma, isProb,
+									"/sdcard/Concentrate/Result/MODEL.txt");
+						
 						Log.d("TAG", "Finish...");
 						// Notice stop training
 						handler.post(new Runnable() {
@@ -1546,7 +1545,7 @@ public class MainActivity extends Activity {
 	}
 
 	class RunningwithSVM extends Thread {
-		boolean check_concentrate;
+
 		public int type;
 		public String time;
 		public int windowsize = 30, offset = 0;
@@ -1558,9 +1557,7 @@ public class MainActivity extends Activity {
 		int af3[] = new int[128 * 5];
 		int af4[] = new int[128 * 5];
 		int result;
-
 		public RunningwithSVM(int longs) {
-			check_concentrate = true;
 			this.type = RUNNING;
 			this.longs = longs;
 			signal = new ArrayList<Emokit_Frame>();
@@ -1681,32 +1678,33 @@ public class MainActivity extends Activity {
 							// SVM
 							Feature.writeFeatureFile("1", (float) c_indexAF3,
 									"/sdcard/Concentrate/Result/RUNTIME.txt");
-							SVM.doClassification(0,
+				SVM.doClassification(0,
 									"/sdcard/Concentrate/Result/RUNTIME.txt",
 									"/sdcard/Concentrate/Result/MODEL.txt",
 									"/sdcard/Concentrate/Result/RESULT.txt");
-							result = FileData
-									.readDataFileOutput("/sdcard/Concentrate/Result/RESULT.txt");
-							if (result == 1) {
-								if (check_concentrate) {
-									handler.post(new Runnable() {
+			result = FileData.readDataFileOutput("/sdcard/Concentrate/Result/RESULT.txt");// doc file result
+						//Xoa file runtime
+						/*File f = new File("/sdcard/Concentrate/Result/RUNTIME.txt");
+						f.delete();*/
+						handler.post(new Runnable() {
+							@Override
+							public void run() {
+								handler.post(new Runnable() {
 
-										@Override
-										public void run() {
-											camera.takePicture(shutterCallback,
-													rawCallback, jpegCallback);
-											Toast.makeText(ctx, "Take shot", 0)
-													.show();
-											prgbar.setProgress(100);
-											check_concentrate = false;
-										}
-									});
-								}
-
-							} else {
-								check_concentrate = true;
-								prgbar.setProgress(5);
+									@Override
+									public void run() {
+										camera.takePicture(shutterCallback,
+												rawCallback, jpegCallback);
+										Toast.makeText(ctx, "Take photo", 0)
+												.show();
+									//	prgbar.setProgress(100);
+									}
+								});
+//								Toast.makeText(getApplicationContext(),
+//										result +"", 0).show();
+								
 							}
+						});
 						}
 					} else {
 						signal.add(k);

@@ -12,14 +12,11 @@ void print_null(const char *s) {}
 
 void exit_with_help_for_train()
 {
-	//LOGD("Designated options are incorrect.\
-                Please refer to http://ntu.csie.org/~piaip/svm/svm_tutorial.html");
 	exit(1);
 }
 
 void exit_input_error(int line_num)
 {
-	//LOGD("Wrong input format at line %d\n", line_num);
 	exit(1);
 }
 
@@ -60,14 +57,12 @@ int svmtrain(int argc, char **argv)
 	char input_file_name[1024];
 	char model_file_name[1024];
 	const char *error_msg;
-
 	parse_command_line(argc, argv, input_file_name, model_file_name);
 	read_problem(input_file_name);
 	error_msg = svm_check_parameter(&prob,&param);
 
 	if(error_msg)
 	{
-		//LOGD("ERROR: %s\n",error_msg);
 		exit(1);
 	}
 
@@ -80,7 +75,6 @@ int svmtrain(int argc, char **argv)
 		modelt = svm_train(&prob,&param);
 		if(svm_save_model(model_file_name,modelt))
 		{
-			//LOGD("can't save model to file %s\n", model_file_name);
 			exit(1);
 		}
 		svm_free_and_destroy_model(&modelt);
@@ -117,15 +111,12 @@ void do_cross_validation()
 			sumyy += y*y;
 			sumvy += v*y;
 		}
-		//LOGD("Cross Validation Mean squared error = %g\n",total_error/prob.l);
-
 	}
 	else
 	{
 		for(i=0;i<prob.l;i++)
 			if(target[i] == prob.y[i])
 				++total_correct;
-		//LOGD("Cross Validation Accuracy = %g%%\n",100.0*total_correct/prob.l);
 	}
 	free(target);
 }
@@ -206,7 +197,6 @@ void parse_command_line(int argc, char **argv, char *input_file_name, char *mode
 				nr_fold = atoi(argv[i]);
 				if(nr_fold < 2)
 				{
-					//LOGD("n-fold cross validation: n must >= 2\n");
 					exit_with_help_for_train();
 				}
 				break;
@@ -218,7 +208,6 @@ void parse_command_line(int argc, char **argv, char *input_file_name, char *mode
 				param.weight[param.nr_weight-1] = atof(argv[i]);
 				break;
 			default:
-				//LOGD("Unknown option: -%c\n", argv[i-1][1]);
 				exit_with_help_for_train();
 		}
 	}
@@ -250,14 +239,12 @@ void parse_command_line(int argc, char **argv, char *input_file_name, char *mode
 void read_problem(const char *filename)
 {
 	int elements, max_index, inst_max_index, i, j;
-        //LOGD("About to open file %s", filename);
 	FILE *fp = fopen(filename,"r");
 	char *endptr;
 	char *idx, *val, *label;
 
 	if(fp == NULL)
 	{
-		//LOGD("can't open input file %s\n",filename);
 		exit(1);
 	}
 
@@ -338,12 +325,10 @@ void read_problem(const char *filename)
 		{
 			if (prob.x[i][0].index != 0)
 			{
-				//LOGD("Wrong input format: first column must be 0:sample_serial_number\n");
 				exit(1);
 			}
 			if ((int)prob.x[i][0].value <= 0 || (int)prob.x[i][0].value > max_index)
 			{
-				//LOGD("Wrong input format: sample_serial_number out of range\n");
 				exit(1);
 			}
 		}

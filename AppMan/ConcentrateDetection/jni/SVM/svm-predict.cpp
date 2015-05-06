@@ -50,32 +50,23 @@ int predict(FILE *input , FILE *output)
 	int nr_class=svm_get_nr_class(model);
 	double *prob_estimate = NULL;
 	int j;
-	double target_label, predict_label,idVal;
-
 	if(predict_probability)
 	{
-		if (svm_type==NU_SVR || svm_type==EPSILON_SVR)
-		{}
-		else
-		{
-
 			int *labels=(int *) malloc(nr_class*sizeof(int));
 			svm_get_labels(model,labels);
-
 			fprintf(output,"labels");
 			for(j=0;j<nr_class;j++)
 				fprintf(output," %d",labels[j]);
 			fprintf(output,"\n");
 			free(labels);
-		}
 	}
 	max_line_len = 1024;
 	line = (char *)malloc(max_line_len*sizeof(char));
 
 	while(readline(input) != NULL)
 	{
-
 		int i =0;
+		double target_label, predict_label,idVal;
 		char *idx, *val, *label, *endptr;
 		int inst_max_index = -1;
 		label = strtok(line, " \t\n");
@@ -87,10 +78,6 @@ int predict(FILE *input , FILE *output)
 		//if(*endptr =='\0')
 		if(endptr == label|| *endptr !='\0')
 		{
-			//LOGD("endptr = %s", endptr);
-			//LOGD("endptr == label|| *endpt!=\0");
-			//predict_label = svm_predict(model,x);
-			//fprintf(output,"%g\n",predict_label);
 			exit_input_error_predict(total +1);
 		}
 		while(1)
@@ -144,6 +131,7 @@ int predict(FILE *input , FILE *output)
 		}
 		else
 		{
+			//LOGD(" CAI DECK");
 			predict_label = svm_predict(model,x);
 			fprintf(output,"%g\n",predict_label);
 		}
@@ -159,40 +147,8 @@ int predict(FILE *input , FILE *output)
 		sumpt += predict_label * target_label;
 		++total;
 	}
-	if(svm_type == NU_SVR|| svm_type == EPSILON_SVR)
-	{
-	}
-	else
-	{
 		if(predict_probability)
 			free(prob_estimate);
-	}
-       /* for (int i = 0; i < rowNum; i++)
-        {
-            double target_label, predict_label=0;
-            x = (struct svm_node *) realloc(x,(colNum+1)*sizeof(struct svm_node));
-
-            for (int j = 0; j < colNum; j++)
-            {
-                x[j].index = indices[i][j];
-                x[j].value = values[i][j];
-            }
-            x[colNum].index = -1;
-
-            // Probability prediction 
-            if (isProb && (svm_type==C_SVC || svm_type==NU_SVC))
-            {
-                    predict_label = svm_predict_probability(model,x,prob_estimates);
-					labels[0]=predict_label;
-
-            }
-            else { labels[i] = svm_predict(model,x); }
-	} // For
-
-        return 0;
-}*/
-	return predict_label;
-
 }
 void exit_with_help_for_predict()
 {
@@ -201,14 +157,6 @@ void exit_with_help_for_predict()
 
 int svmpredict(int argc, char **argv)
 {
-	for(int j = 0 ;j< argc;j++)
-	{
-		/*//int m = sizeof(argv);
-		LOGD("m = %d", m);
-		for (int k = 0; k<m;k++)
-			LOGD("argv:%c ",argv[j][k]);
-*/
-	}
 
 	FILE *input, *output;
 		int i;
@@ -241,7 +189,6 @@ int svmpredict(int argc, char **argv)
 		input = fopen(argv[i],"r");
 		if(input == NULL)
 		{
-
 			fprintf(stderr,"can't open input file %s\n",argv[i]);
 			exit(1);
 		}
@@ -274,11 +221,11 @@ int svmpredict(int argc, char **argv)
 				info("Model supports probability estimates, but disabled in prediction.\n");
 		}
 		//LOGD("predict:(%s, %s)",input,output);
-		int result = predict(input,output);
+		predict(input,output);
 		svm_free_and_destroy_model(&model);
 		free(x);
 		free(line);
 		fclose(input);
 		fclose(output);
-		return result;
+		return 0;
 }

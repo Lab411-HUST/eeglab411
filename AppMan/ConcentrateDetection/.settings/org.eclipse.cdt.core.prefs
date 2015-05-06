@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1017742947/NDK_ROOT/delimiter=\:
+environment/project/com.android.toolchain.gcc.1017742947/NDK_ROOT/operation=replace
+environment/project/com.android.toolchain.gcc.1017742947/NDK_ROOT/value=/home/chickenbka/Documents/adt-bundle-linux-x86-20140702/android-ndk-r9d
+environment/project/com.android.toolchain.gcc.1017742947/append=true
+environment/project/com.android.toolchain.gcc.1017742947/appendContributed=true

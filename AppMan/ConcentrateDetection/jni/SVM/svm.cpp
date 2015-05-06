@@ -6,7 +6,6 @@
 #include <string.h>
 #include <stdarg.h>
 #include <limits.h>
-
 #include "svm.h"
 #define LOG_TAG "PREDICT"
 int libsvm_version = LIBSVM_VERSION;
@@ -2074,7 +2073,6 @@ static void svm_group_classes(const svm_problem *prob, int *nr_class_ret, int **
 //
 svm_model *svm_train(const svm_problem *prob, const svm_parameter *param)
 {
-
 	svm_model *model = Malloc(svm_model,1);
 	model->param = *param;
 	model->free_sv = 0;	// XXX
@@ -2315,7 +2313,6 @@ svm_model *svm_train(const svm_problem *prob, const svm_parameter *param)
 // Stratified cross validation
 void svm_cross_validation(const svm_problem *prob, const svm_parameter *param, int nr_fold, double *target)
 {
-
 	int i;
 	int *fold_start = Malloc(int,nr_fold+1);
 	int l = prob->l;
@@ -2442,7 +2439,6 @@ int svm_get_nr_class(const svm_model *model)
 
 void svm_get_labels(const svm_model *model, int* label)
 {
-
 	if (model->label != NULL)
 		for(int i=0;i<model->nr_class;i++)
 			label[i] = model->label[i];
@@ -2450,7 +2446,6 @@ void svm_get_labels(const svm_model *model, int* label)
 
 double svm_get_svr_probability(const svm_model *model)
 {
-
 	if ((model->param.svm_type == EPSILON_SVR || model->param.svm_type == NU_SVR) &&
 	    model->probA!=NULL)
 		return model->probA[0];
@@ -2463,7 +2458,6 @@ double svm_get_svr_probability(const svm_model *model)
 
 double svm_predict_values(const svm_model *model, const svm_node *x, double* dec_values)
 {
-
 	int i;
 	if(model->param.svm_type == ONE_CLASS ||
 	   model->param.svm_type == EPSILON_SVR ||
@@ -2483,9 +2477,7 @@ double svm_predict_values(const svm_model *model, const svm_node *x, double* dec
 	}
 	else
 	{
-
 		int nr_class = model->nr_class;
-
 		int l = model->l;
 		
 		double *kvalue = Malloc(double,l);
@@ -2532,8 +2524,6 @@ double svm_predict_values(const svm_model *model, const svm_node *x, double* dec
 		for(i=1;i<nr_class;i++)
 			if(vote[i] > vote[vote_max_idx])
 				vote_max_idx = i;
-
-
 		free(kvalue);
 		free(start);
 		free(vote);
@@ -2543,7 +2533,6 @@ double svm_predict_values(const svm_model *model, const svm_node *x, double* dec
 
 double svm_predict(const svm_model *model, const svm_node *x)
 {
-
 	int nr_class = model->nr_class;
 	double *dec_values;
 	if(model->param.svm_type == ONE_CLASS ||
@@ -2559,7 +2548,6 @@ double svm_predict(const svm_model *model, const svm_node *x)
 
 double svm_predict_probability(const svm_model *model, const svm_node *x, double *prob_estimates)
 {
-
 	if ((model->param.svm_type == C_SVC || model->param.svm_type == NU_SVC) &&
 	    model->probA!=NULL && model->probB!=NULL)
 	{

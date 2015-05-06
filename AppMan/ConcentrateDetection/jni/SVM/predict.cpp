@@ -3,10 +3,11 @@
 #include <stdio.h>
 #include <math.h>
 #include "predict.h"
-#include "./svm/svm-predict.h"
+#include "svm-predict.h"
 
 #define LOG_TAG "PREDICT"
 #define PARA_LEN 12
+
 int predict(int probability_estimate,const char *classifyFile, const char *modelFile, const char *outputFile)
 {
 	//LOGD("Cai DECK");
