@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item 
+        android:id="@+id/capture"
+        android:title="Acquisition"
+        />
+    <item 
+        android:id="@+id/xdawn"
+        android:title="XDawn Trainer"
+        />
+    <item 
+        android:id="@+id/classifier"
+        android:title="Classifier Trainer"
+        />
+   <item 
+       android:id="@+id/online"
+       android:title="Online"
+       />
+   <item
+       android:id="@+id/xdawnfilter"
+       android:title="XDawn Filter"
+       />
+   <item 
+       android:id="@+id/clean"
+       android:title="Clean"
+       />
+</menu>
