@@ -1,14 +1,11 @@
 package lab411.appman.concentratedetection;
 
-import java.io.BufferedWriter;
 import java.io.DataOutputStream;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.List;
 
 import la411.eeg.svm.Feature;
@@ -19,13 +16,11 @@ import lab411.eeg.emotiv.LibEmotiv;
 import lab411.eeg.filedata.FileData;
 import android.annotation.SuppressLint;
 import android.app.Activity;
-import android.app.Dialog;
+import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
-import android.content.res.Resources;
-import android.graphics.drawable.Drawable;
 import android.hardware.Camera;
 import android.hardware.Camera.PictureCallback;
 import android.hardware.Camera.ShutterCallback;
@@ -91,6 +86,13 @@ public class MainActivity extends Activity {
 	TextView tv_level;
 	ProgressBar prgbar;
 	CaptureSignal capture;
+	private BroadcastReceiver receiver = new BroadcastReceiver() {
+		@Override
+		public void onReceive(Context context, Intent intent){
+			
+			
+		}
+	};
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -1693,10 +1695,15 @@ public class MainActivity extends Activity {
 
 									@Override
 									public void run() {
+										if(result==1){
 										camera.takePicture(shutterCallback,
 												rawCallback, jpegCallback);
+										prgbar.setProgress(100);
 										Toast.makeText(ctx, "Take photo", 0)
-												.show();
+												.show();}
+										else {
+											prgbar.setProgress(5);
+										}
 									//	prgbar.setProgress(100);
 									}
 								});
