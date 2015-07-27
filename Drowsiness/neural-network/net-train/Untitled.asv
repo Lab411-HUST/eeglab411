@@ -1,0 +1,17 @@
+load wake_1.txt;
+load stage1_1.txt;
+load stage2_1.txt;
+load stage3_1.txt;
+
+subplot(411);
+title('Wake')
+plot(wake_1,'-b');
+subplot(412);
+title('Stage 1')
+plot(stage1_1,'-b');
+subplot(413);
+title('Stage 2')
+plot(stage2_1,'-b');
+subplot(414);
+title('Stage 3')
+plot(stage3_1,'-b');
