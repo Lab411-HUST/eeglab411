@@ -1,0 +1,9 @@
+E:\C# Projects\LSServer\LSServer\bin\Debug\LSServer.exe.config
+E:\C# Projects\LSServer\LSServer\bin\Debug\LSServer.exe
+E:\C# Projects\LSServer\LSServer\bin\Debug\LSServer.pdb
+E:\C# Projects\LSServer\LSServer\obj\Debug\LSServer.csprojResolveAssemblyReference.cache
+E:\C# Projects\LSServer\LSServer\obj\Debug\LSServer.MainForm.resources
+E:\C# Projects\LSServer\LSServer\obj\Debug\LSServer.Properties.Resources.resources
+E:\C# Projects\LSServer\LSServer\obj\Debug\LSServer.csproj.GenerateResource.Cache
+E:\C# Projects\LSServer\LSServer\obj\Debug\LSServer.exe
+E:\C# Projects\LSServer\LSServer\obj\Debug\LSServer.pdb
